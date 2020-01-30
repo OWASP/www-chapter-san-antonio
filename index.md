@@ -19,10 +19,6 @@ Welcome to the San Antonio chapter homepage. The chapter board is
 
 Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twitter](https://twitter.com/owaspsanantonio)
 
-Speaking at OWASP San Antonio Chapter Events
---------------------------------------------
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
-
 Next Meeting/Event(s)
 ---------------------
 ### Friday, 14th February 2020
@@ -32,6 +28,9 @@ Next Meeting/Event(s)
 **Time:** 11:30 AM - 13:00 PM.
 
 **Presentation**
-“The As, Bs, and Four Cs of Testing Cloud-Native Applications” - Dan Cornell\
-**More information and RSVP:** https://www.meetup.com/OWASP-San-Antonio/events/268307519/
+“The As, Bs, and Four Cs of Testing Cloud-Native Applications” - Dan Cornell <br>
+**More information and RSVP:** [Meetup Event](https://www.meetup.com/OWASP-San-Antonio/events/268307519/)
 
+Speaking at OWASP San Antonio Chapter Events
+--------------------------------------------
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
