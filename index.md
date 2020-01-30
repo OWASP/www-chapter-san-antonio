@@ -24,14 +24,14 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
-### Thursday, 19th September 2019 (Central London)
+### Friday, 14th February 2020
 
-**Location:** Goodman Masson, 120 Aldersgate Street, London, EC1A 4JQ
+**Location:** Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
 
 **Time:** 11:30 AM - 13:00 PM.
 
-#### TALKS
--    “The As, Bs, and Four Cs of Testing Cloud-Native Applications” - Dan Cornell
+** Presentation **
+“The As, Bs, and Four Cs of Testing Cloud-Native Applications” - Dan Cornell
 More information and RSVP: https://www.meetup.com/OWASP-San-Antonio/events/268307519/
 
 
