@@ -1,17 +1,15 @@
 ---
 
-layout: col-sidebar
-title: OWASP San Antonio
-tags: example-tag
-level: 0
-
-region: United States
-
+title: PastEvents
+displaytext: Past Events
+layout: null
+tab: true
+order: 2
+tags: sanantonio
 
 ---
-## Local News
 
-`Please see `<https://www.meetup.com/OWASP-San-Antonio/>` for the most up to date chapter meeting schedule `
+## Past Events
 
 ### **OWASP San Antonio - November 9, 2018 @ 11:30am**
 
@@ -174,9 +172,9 @@ against web applications. Speaker: Jake Miller
 Jake is a penetration tester for Blue Canopy (Jacobs Engineering Group),
 primarily focusing on web application security. Prior to penetration
 testing, he was a Security Controls Assessor, a SOC analyst, and a Navy
-Submariner. He blogs about security on https://laconicwolf.com, writes a
+Submariner. He blogs about security on https://laconicwolf.com, writes a
 fair amount of Python and PowerShell code
-on https://github.com/laconicwolf, and occasionally tweets
+on https://github.com/laconicwolf, and occasionally tweets
 (@laconicwolf). Aside from security and coding, he enjoys spending time
 with his family and participating in ultra-running and obstacle races.
 
@@ -293,7 +291,7 @@ security program.
 
 ### **OWASP San Antonio - October 27, 2017 @ 11:30am**
 
-### Join us for the October 2017 OWASP San Antonio meeting\!
+Join us for the October 2017 OWASP San Antonio meeting\!
 
 We will have a talk about DNS Exfiltration Techniques and Methods.
 
@@ -349,7 +347,7 @@ organization.
 
 @Denim Group Offices 1354 N Loop 1604 E Suite 110 San Antonio, TX 78232
 
-**OWASP San Antonio - August 25, 2017 @ 11:30am**
+### **OWASP San Antonio - August 25, 2017 @ 11:30am**
 
 Join us for the August 2017 OWASP San Antonio meeting\!
 
@@ -368,7 +366,7 @@ As it turns out, quite a lot. This talk discusses the aspects of
 security serverless doesn’t solve, the problems it could make worse, and
 the tools and practices you can use to keep yourself safe.
 
-**OWASP San Antonio - July 21, 2017 @ 11:30am**
+### **OWASP San Antonio - July 21, 2017 @ 11:30am**
 
 Join us for the July 2017 OWASP San Antonio meeting\!
 
@@ -408,7 +406,7 @@ latter. The presentation concludes with predictions about the future of
 the Information Superhighway and how information security professionals
 can prepare.
 
-**OWASP San Antonio - June 30, 2017 @ 11:30am**
+### **OWASP San Antonio - June 30, 2017 @ 11:30am**
 
 Join us for the June 2017 OWASP San Antonio meeting\!
 
@@ -444,7 +442,7 @@ our infrastructure.
 In the second part of the talk, we'll work through a demo application,
 applying that tooling to build a truly CI/CD pipeline.
 
-**OWASP San Antonio - May 26, 2017 @ 11:30am**
+### **OWASP San Antonio - May 26, 2017 @ 11:30am**
 
 Join us for the May 2017 OWASP San Antonio meeting\!
 
@@ -501,7 +499,7 @@ The session will culminate in advice and guidance for how to ensure that
 security is not an after-thought when purchasing new enterprise products
 for your company.
 
-**OWASP San Antonio - January 27, 2017 @ 11:30am**
+### **OWASP San Antonio - January 27, 2017 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -541,7 +539,7 @@ integrating security into their DevOps practices.
 
 <https://www.meetup.com/OWASP-San-Antonio/events/236883708/>
 
-**OWASP San Antonio - August 26, 2016 @ 11:30am**
+### **OWASP San Antonio - August 26, 2016 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -571,7 +569,7 @@ how to detect this type of malicious activity.
 
 <http://www.meetup.com/OWASP-San-Antonio/events/233427790/>
 
-**OWASP San Antonio - June 23, 2016 @ 11:30am**
+### **OWASP San Antonio - June 23, 2016 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -622,7 +620,7 @@ adverse impact on the security of the deployed application.
 
 <http://www.meetup.com/OWASP-San-Antonio/events/231594503/>
 
-**OWASP San Antonio - May 20, 2016 @ 11:30am**
+### **OWASP San Antonio - May 20, 2016 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -656,7 +654,7 @@ of modern AppSec along the way.
 
 <http://www.meetup.com/OWASP-San-Antonio/events/231044053/>
 
-**OWASP San Antonio - April 29, 2016 @ 11:30am**
+### **OWASP San Antonio - April 29, 2016 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -703,7 +701,7 @@ Pipeline as well as practical examples of these practices put into use.
 Start early and begin to buy down the technical security dept which
 feels inevitable with more traditional AppSec program thinking.
 
-**OWASP San Antonio - March 25 @ 11:30am**
+### **OWASP San Antonio - March 25 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -735,7 +733,7 @@ the way to the day of talk itself.
 
 <http://www.meetup.com/OWASP-San-Antonio/events/228893612/>
 
-**OWASP San Antonio - February 26 @ 11:30am**
+### **OWASP San Antonio - February 26 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -769,7 +767,7 @@ denial of service attacks, and more.
 
 <https://github.com/openstack/syntribos>
 
-**OWASP San Antonio - January 29 @ 11:30am**
+### **OWASP San Antonio - January 29 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -803,7 +801,7 @@ requests. This presentation will extend beyond these blind injection
 attacks and discuss how to retrieve the entire XML document, using Blind
 XPath Injection techniques.
 
-**OWASP San Antonio - September 18 @ 11:30am**
+### **OWASP San Antonio - September 18 @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -844,7 +842,7 @@ tools that we are using, and the techniques that we employ to find and
 remediate the bad guys from our networks. Good security doesn't have to
 break the bank; it just has to break the mold.
 
-**OWASP San Antonio - August 28th @ 11:30am**
+### **OWASP San Antonio - August 28th @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -871,7 +869,7 @@ Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
 
 <http://www.meetup.com/OWASP-San-Antonio/events/224725183/>
 
-**OWASP San Antonio - July 31st @ 11:30am**
+### **OWASP San Antonio - July 31st @ 11:30am**
 
 Denim Group 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -900,7 +898,7 @@ Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
 
 <http://www.meetup.com/OWASP-San-Antonio/events/223970537/>
 
-**OWASP San Antonio - June 26th @ 11:30am**
+### **OWASP San Antonio - June 26th @ 11:30am**
 
 Denim Group - 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -956,7 +954,7 @@ The link of the slides:
 The links of the tools: <https://github.com/stackforge/opencafe>
 <https://wiki.openstack.org/wiki/Security/Projects/Bandit>
 
-**OWASP San Antonio - May 29, 2015 @ 11:30am**
+### **OWASP San Antonio - May 29, 2015 @ 11:30am**
 
 Denim Group - 1354 N Loop 1604 E Ste 110, San Antonio, TX
 
@@ -998,7 +996,7 @@ Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
 
 <http://www.meetup.com/OWASP-San-Antonio/events/222536787/>
 
-**OWASP Invites You to Attend InnoTech San Antonio as our Guest**
+### **OWASP Invites You to Attend InnoTech San Antonio as our Guest**
 
 InnoTech, presented by Presidio, is San Antonio’s premiere IT and
 security focused conference & expo. We're celebrating eight years of
@@ -1016,7 +1014,7 @@ afternoon reception.
 Check out the list of speakers and technology demos by visiting
 <http://www.innotechconferences.com/sanantonio/>
 
-**OWASP San Antonio - March 20th 2015**
+### **OWASP San Antonio - March 20th 2015**
 
 On March 20th the OWASP San Antonio Chapter is having a FREE one day,
 single track, conference featuring talks about secure software
@@ -1205,7 +1203,7 @@ certifications.
 
 3:45 - 4:00: Close
 
-'''OWASP San Antonio Chapter - Feb 11 2015 @ 11:30am '''
+### '''OWASP San Antonio Chapter - Feb 11 2015 @ 11:30am '''
 
 Come to the first OWASP San Antonio meeting of 2015. We will be having a
 talk on BeEF - the Browser Exploitation Framework Project and discussing
@@ -1234,10 +1232,3 @@ possible.
 The slides download link:
 <https://www.owasp.org/images/e/e1/Xss-owasp.pptx>
 
-## Past Events
-
-<https://www.owasp.org/index.php/San_Antonio/pastEvents>
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
-[Category:Texas](Category:Texas "wikilink")
