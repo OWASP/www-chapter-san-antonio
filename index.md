@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP San Antonio
+site_side: true
 tags: sanantonio
-level: 0
-
+level: 3
 region: United States
 
 ---
@@ -12,9 +12,10 @@ region: United States
 
 OWASP San Antonio
 -------------
-Welcome to the San Antonio chapter homepage. The chapter board is <a href="mailto:dan@denimgroup.com">Dan Cornell</a>, <a href="mailto:matt.valdes@owasp.org">Matt Valdes</a> and <a href="mailto:michael.xin@owasp.org">Michael Xin</a>. Follow chapter news on [Twitter](https://twitter.com/owaspsanantonio) | [Meetup.com](https://meetup.com/OWASP-San-Antonio)
+Welcome to the San Antonio chapter homepage. 
+The chapter board is <a href="mailto:dan@denimgroup.com">Dan Cornell</a>, <a href="mailto:matt.valdes@owasp.org">Matt Valdes</a> and <a href="mailto:michael.xin@owasp.org">Michael Xin</a>. Follow chapter news on [Twitter](https://twitter.com/owaspsanantonio) | [Meetup.com](https://meetup.com/OWASP-San-Antonio)
 
-Speaking at OWASP London Chapter Events
+Speaking at OWASP San Antonio Chapter Events
 ---------------------------------------
 
 #### Call For Speakers
