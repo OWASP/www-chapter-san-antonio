@@ -5,7 +5,7 @@ title: OWASP San Antonio
 site_side: true
 tags: sanantonio
 level: 3
-region: United States
+region: North America
 
 ---
 
