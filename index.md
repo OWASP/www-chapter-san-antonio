@@ -6,6 +6,7 @@ site_side: true
 tags: sanantonio
 level: 3
 region: North America
+meetup group: OWASP-San-Antonio
 
 ---
 
@@ -19,7 +20,10 @@ Welcome to the San Antonio chapter homepage. The chapter board is
 
 Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twitter](https://twitter.com/owaspsanantonio)
 
-Next Meeting/Event(s)
+### Next Meeting/Event(s)
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ---------------------
 ### Friday, 14th February 2020
 
