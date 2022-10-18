@@ -14,9 +14,11 @@ OWASP San Antonio
 -----------------
 Welcome to the San Antonio chapter homepage. The chapter board is 
 
-* <a href="mailto:dan@denimgroup.com">Dan Cornell</a>
+* <a href="mailto:dan.cornell@owasp.org">Dan Cornell</a> - Chapter Leader
 * <a href="mailto:matt.valdes@owasp.org">Matt Valdes</a>
 * <a href="mailto:michael.xin@owasp.org">Michael Xin</a> 
+* <a href="mailto:derek.fang@owasp.org">Derek Fang</a>
+* <a href="mailto:priyadharshini.parthasarathy@owasp.org">Priyadharshini Parthasarathy</a>
 
 Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twitter](https://twitter.com/owaspsanantonio)
 
