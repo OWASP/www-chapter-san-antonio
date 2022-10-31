@@ -6,7 +6,7 @@ site_side: true
 tags: sanantonio
 level: 3
 region: North America
-meetup-group: OWASP-San-Antonio
+meetup-group: meetup-group-cubhvbpi
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to the San Antonio chapter homepage. The chapter board is
 * <a href="mailto:derek.fang@owasp.org">Derek Fang</a>
 * <a href="mailto:priyadharshini.parthasarathy@owasp.org">Priyadharshini Parthasarathy</a>
 
-Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twitter](https://twitter.com/owaspsanantonio)
+Follow chapter news on [Meetup.com](https://www.meetup.com/meetup-group-cubhvbpi/)
 
 ### Next Meeting/Event(s)
 
