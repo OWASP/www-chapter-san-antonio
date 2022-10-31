@@ -1,6 +1,6 @@
 ### Leaders
 
-* [Dan Cornell](mailto:dan.cornell@owasp.org) - Chapter Leader
+* [Dan Cornell](mailto:dan.cornell@owasp.org)
 * [Matt Valdes](mailto:matt.valdes@owasp.org)
 * [Michael Xin](mailto:michael.xin@owasp.org)
 * [Derek Fang](mailto:derek.fang@owasp.org)
