@@ -7,7 +7,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
-* [Meetup.com](https://www.meetup.com/OWASP-San-Antonio)
+* [Meetup.com](https://www.meetup.com/meetup-group-cubhvbpi/)
 * [Twitter](https://twitter.com/owaspsanantonio)
 
 ### Code Repository
