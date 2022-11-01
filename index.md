@@ -12,10 +12,6 @@ meetup-group: owasp-sanantonio
 
 ---
 
-![San Antonio Chapter Logo](assets/images/chapter.png)
-
-
-
 ## Welcome
 Welcome to OWASP San Antonio Chapter, a regional city chapter within OWASP. Our Chapter serves San Antonio region as a platform to discuss and share topics all around information and application security.
 
