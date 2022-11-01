@@ -10,6 +10,7 @@ meetup-group: owasp-sanantonio
 
 ---
 
+![San Antonio Chapter Logo](assets/images/chapter.png)
 
 
 
