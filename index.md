@@ -14,7 +14,12 @@ meetup-group: owasp-sanantonio
 
 
 ## Welcome
-Include some information here about your chapter
+Welcome to OWASP San Antonio Chapter, a regional city chapter within OWASP. Our Chapter serves San Antonio region as a platform to discuss and share topics all around information and application security.
+
+Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
+
+Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
