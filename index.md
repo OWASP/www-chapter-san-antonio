@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP San Antonio
 site_side: true
@@ -7,9 +6,7 @@ tags: sanantonio
 region: North America
 country: USA
 postal-code: 78258
-
 meetup-group: owasp-sanantonio
-
 ---
 
 ![San Antonio Chapter Logo](assets/images/chapter.png)
@@ -22,7 +19,6 @@ Welcome to OWASP San Antonio Chapter, a regional city chapter within OWASP. Our 
 Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
 
 Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
-
 
 ## What's going to happen?
 To be announced via our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/).
