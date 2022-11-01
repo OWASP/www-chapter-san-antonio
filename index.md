@@ -51,7 +51,7 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 
 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
