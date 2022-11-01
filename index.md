@@ -4,8 +4,10 @@ layout: col-sidebar
 title: OWASP San Antonio
 site_side: true
 tags: sanantonio
-level: 3
 region: North America
+country: USA
+postal-code: 78258
+
 meetup-group: owasp-sanantonio
 
 ---
