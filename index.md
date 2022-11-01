@@ -6,7 +6,7 @@ site_side: true
 tags: sanantonio
 level: 3
 region: North America
-meetup-group: meetup-group-cubhvbpi
+meetup-group: owasp-sanantonio
 
 ---
 
