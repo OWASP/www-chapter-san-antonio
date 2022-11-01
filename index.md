@@ -66,6 +66,35 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
+
+## What's going to happen?
+To be announced via our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/).
+We usually have a talks that related to information and application security.
+
+## Further Notes
+Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
+
+Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
+## Information about San Antonio Chapter Events
+
+### When?
+We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. 
+
+### Where?
+We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](https://www.meetup.com/owasp-sanantonio/). 
+
+## Organization
+
+### Call for Speakers and Volunteers
+
+**We are looking for presentations for the next OWASP San Antonio Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP San Antonio Chapter organisation .
+
+### Etiquette
+Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
+
+
+
 ```
 {info.md}
 
