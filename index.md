@@ -47,7 +47,7 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 
 
 
-Next Meeting/Event
+[Next Meeting/Event](https://www.meetup.com/owasp-sanantonio/)
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
