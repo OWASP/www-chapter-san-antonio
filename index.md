@@ -4,23 +4,27 @@ layout: col-sidebar
 title: OWASP San Antonio
 site_side: true
 tags: sanantonio
-level: 3
+level: 0
 region: North America
-meetup-group: OWASP-San-Antonio
+country: USA
+postal-code: 78258
+meetup-group: owasp-sanantonio
 
 ---
 
-OWASP San Antonio
------------------
-Welcome to the San Antonio chapter homepage. The chapter board is 
+## Welcome
+Welcome to OWASP San Antonio Chapter, a regional city chapter within OWASP. Our Chapter serves San Antonio region as a platform to discuss and share topics all around information and application security.
 
-* <a href="mailto:dan.cornell@owasp.org">Dan Cornell</a> - Chapter Leader
-* <a href="mailto:matt.valdes@owasp.org">Matt Valdes</a>
-* <a href="mailto:michael.xin@owasp.org">Michael Xin</a> 
-* <a href="mailto:derek.fang@owasp.org">Derek Fang</a>
-* <a href="mailto:priyadharshini.parthasarathy@owasp.org">Priyadharshini Parthasarathy</a>
+Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
 
-Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twitter](https://twitter.com/owaspsanantonio)
+Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
+## What's going to happen?
+To be announced via our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/).
+We usually have a talks that related to information and application security.
+
+## Further Notes
+Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ### Next Meeting/Event(s)
 
@@ -40,3 +44,4 @@ Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twi
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+

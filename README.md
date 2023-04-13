@@ -1,1 +1,1 @@
-OWASP San Antonio Chapter
+OWASP San Antonio Chapter recently updated. 
