@@ -26,29 +26,22 @@ We usually have a talks that related to information and application security.
 ## Further Notes
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
-Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+### Next Meeting/Event(s)
 
-## Information about San Antonio Chapter Events
-
-### When?
-We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. 
-
-### Where?
-We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](https://www.meetup.com/owasp-sanantonio/). 
-
-## Organization
-
-### Call for Speakers and Volunteers
-
-**We are looking for presentations for the next OWASP San Antonio Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP San Antonio Chapter organisation .
-
-### Etiquette
-Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
-
-
-
-[Next Meeting/Event](https://www.meetup.com/owasp-sanantonio/)
----------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+---------------------
+### Friday, 28th April 2023
+
+**Location:** Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
+
+**Time:** 11:30 AM - 13:00 PM.
+
+**Presentation**
+"The Ever-Unachievable Practical Security" - Priyadharshini Parthasarathy <br>
+**More information and RSVP:** [Meetup Event](https://www.meetup.com/owasp-sanantonio/events/292870330/)
+
+Speaking at OWASP San Antonio Chapter Events
+--------------------------------------------
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
 
