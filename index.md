@@ -27,15 +27,15 @@ Follow chapter news on [Meetup.com](https://meetup.com/OWASP-San-Antonio) | [Twi
 {% include chapter_events.html group=page.meetup-group %}
 
 ---------------------
-### Friday, 14th February 2020
+### Friday, 28th April 2023
 
 **Location:** Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
 
 **Time:** 11:30 AM - 13:00 PM.
 
 **Presentation**
-“The As, Bs, and Four Cs of Testing Cloud-Native Applications” - Dan Cornell <br>
-**More information and RSVP:** [Meetup Event](https://www.meetup.com/OWASP-San-Antonio/events/268307519/)
+"The Ever-Unachievable Practical Security" - Priyadharshini Parthasarathy <br>
+**More information and RSVP:** [Meetup Event](https://www.meetup.com/owasp-sanantonio/events/292870330/)
 
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
