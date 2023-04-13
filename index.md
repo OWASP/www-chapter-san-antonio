@@ -26,20 +26,26 @@ We usually have a talks that related to information and application security.
 ## Further Notes
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
-### Next Meeting/Event(s)
+## Upcoming Events ##
+### OWASP San Antonio Chapter Meeting April 2023 ###
 
-{% include chapter_events.html group=page.meetup-group %}
+**When:** Friday, April 28th, 2023 @ 11:30 AM - 1:00 PM
 
----------------------
-### Friday, 28th April 2023
+**Presentation: The Ever-Unachievable Practical Security** 
+<blockquote> 
+In this talk, I will walk through an analysis of general risks and threats to businesses, some of the current issues folks find implementing security programs, and then walk through a more practical, sustainable, and more implementable version of the process. I’m drawing on the many failures I’ve seen over the years and pointing out the simple reasons for why they didn’t work.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Priyadharshini Parthasarathy
+<br><br>
+</blockquote>
+RSVP:<br>
+<a href="https://www.meetup.com/owasp-sanantonio/events/292870330/" target="_blank">Meetup (online)</a>
+<br><br>
 
 **Location:** Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
-
-**Time:** 11:30 AM - 13:00 PM.
-
-**Presentation**
-"The Ever-Unachievable Practical Security" - Priyadharshini Parthasarathy <br>
-**More information and RSVP:** [Meetup Event](https://www.meetup.com/owasp-sanantonio/events/292870330/)
 
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
