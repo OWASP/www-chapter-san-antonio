@@ -38,8 +38,9 @@ In this talk, I will walk through an analysis of general risks and threats to bu
 
 **Speaker:** 
 <blockquote>
-Priyadharshini Parthasarathy
+ Red Thomas
 <br><br>
+  CEO at Red Knight
 </blockquote>
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-sanantonio/events/292870330/" target="_blank">Meetup (online)</a>
