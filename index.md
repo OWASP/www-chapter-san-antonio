@@ -27,26 +27,26 @@ We usually have a talks that related to information and application security.
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
-### OWASP San Antonio Chapter Meeting April 2023 ###
+### OWASP San Antonio Chapter Meeting April 2024 ###
 
-**When:** Friday, April 28th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Friday, April 19th, 2024 @ 11:30 AM - 1:00 PM CDT, Lunch starts at 11 AM
 
 **Presentation: The Ever-Unachievable Practical Security** 
 <blockquote> 
-In this talk, I will walk through an analysis of general risks and threats to businesses, some of the current issues folks find implementing security programs, and then walk through a more practical, sustainable, and more implementable version of the process. I’m drawing on the many failures I’ve seen over the years and pointing out the simple reasons for why they didn’t work.
+Large language models represent a historic opportunity to further accelerate the pace of software development. A GitLab survey reported that 67% of organizations planned to use AI in software development in the immediate future. Unfortunately, many organizations are moving quickly to adopt AI in development with little thought of security consequences. Threat modeling enable security analysts to understand the additional risks that development with LLMs represents. This session will provide an overview of AI and LLM security challenges and demonstrate how threat modeling can identify potential security weaknesses. Inspired by the OWASP Top 10 list for LLMs, the session will provide a threat modeling approach for LLMs that is straightforward to adopt in production.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
- Red Thomas
+ John Dickson
 <br><br>
-  CEO at Red Knight
+  CEO at Bytewhisper Security
 </blockquote>
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-sanantonio/events/292870330/" target="_blank">Meetup (online)</a>
 <br><br>
 
-**Location:** Denim Group Offices: 1354 N Loop 1604 E Suite 110, San Antonio, TX 78232
+**Location:** One Frost: 3838 Rogers Rd, San Antonio, TX 78251
 
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
