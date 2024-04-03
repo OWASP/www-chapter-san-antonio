@@ -43,7 +43,7 @@ Large language models represent a historic opportunity to further accelerate the
   CEO at Bytewhisper Security
 </blockquote>
 RSVP:<br>
-<a href="https://www.meetup.com/owasp-sanantonio/events/292870330/" target="_blank">Meetup (online)</a>
+<a href="https://www.meetup.com/owasp-sanantonio/events/299305618/" target="_blank">Meetup (online)</a>
 <br><br>
 
 **Location:** One Frost: 3838 Rogers Rd, San Antonio, TX 78251
