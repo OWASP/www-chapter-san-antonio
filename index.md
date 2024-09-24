@@ -50,5 +50,5 @@ RSVP:<br>
 
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail. Test
 
