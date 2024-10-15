@@ -33,6 +33,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 
 **Presentation: Container Security-A discussion Details** 
 <blockquote> 
+  <br>
 Containers 101- Optiv
 Container Security-A discussion
 Details
@@ -61,19 +62,21 @@ Please reply “ONSITE” if you plan on attending in person so we can finalize 
 Social Hour after
 <br> <br>
 Presentations will include:
+<BR><br>
 I. Containers 101-Optiv
 Container Security Best Practices and Tooling-Optiv
-<br>
+<br><br>
 
 II. Securing APIs in the Cloud: Insights and Best Practices- Palo Alto
+<br><br>
 This presentation explores the security challenges and opportunities in containerization, emphasizing a defense-in-depth approach. We begin by discussing the widespread adoption of containers and the emerging trends driving innovation, such as serverless computing and hybrid/multi-cloud environments. We then examine key security concerns, including container sprawl, misconfigurations, and supply chain vulnerabilities. A defense-in-depth strategy, starting with shifting security left during development, followed by securing images at rest and implementing runtime protection, ensures comprehensive container security. By integrating cloud workload protection platforms (CWPP) with broader CNAPP strategies, organizations can safeguard containers throughout their entire lifecycle, from code to production
-<br>
+<br><br>
 III. From Reactive to Effective: Building Application Security that Works-Mend IO
-
+<br><br>
 In 2023, 71% of enterprises admitted their AppSec programs were reactive, playing catch-up with vulnerability alerts -– while at the same time, applications remain the top target for threat actors. That adds up to increased business risk for a lot of companies and fuels an urgent need to improve application security strategies. But how?
 The key is to move from a compliance-based approach to managing application risk.
 </blockquote>
-
+<br><br>
 **Speaker:** 
 <blockquote>
 Containers 101-Optiv
@@ -83,18 +86,19 @@ Pipia also has experience as an educator, providing training on security topics.
 Prior to joining Optiv, Pipia worked on security teams varying from large tech companies to startups. He has had experience as a crucial member of a mature application security team, as well as the sole member and owner of application security at an organization.
 <br> <br>
 Security challenges and opportunities in containerization -Palo Alto
-<br>
+<br><br>
 Jonathan Brown is a Solutions Architect at Palo Alto Networks, specializing in Prisma Cloud. With over 15 years of experience in technology, Jonathan has a deep understanding of traditional enterprise architecture and the security challenges organizations face as they transition to the cloud. Before joining Palo Alto Networks, Jonathan worked as an infrastructure engineer in data centers and at Twistlock, a pioneer in Cloud Native Security for Containers, acquired by Palo Alto Networks in 2019. At Palo Alto Networks, Jonathan focuses on helping organizations secure their cloud environments through comprehensive security strategies and cutting-edge technologies.
-<br>
+<br><br>
 From Reactive to Effective: Building Application Security that Works-Mend IO
-  <br>
+  <br><br>
 Chris Lindsey is a seasoned speaker who has appeared at conferences, webinars, and private events. Currently building an online community and creating a podcast series, Chris draws on expertise from more than 15 years of direct security experience and over 35 years of experience leading teams in programming and software, solutions, and security architecture.
-
+<br>
 For three years, Chris built and led an entire application security program that includes the implementation of mature AppSec programs, including oversight of security processes and procedures, SAST, DAST, CSA/OSA, compliance, training, developer communication, code reviews, application inventory gathering, and risk analysis.
 <br>
 Panel Moderator-Brandon Pinzon
 <br>
 A seasoned leader at the forefront of AI and data security, Brandon Pinzon is an experienced Chief Security Officer, who leverages his 17+ years of experience across technology, banking, and insurance industries to guide organizations as a sought-after advisor.
+  <br>
 He spearheads comprehensive security programs, encompassing not just traditional areas like cyber defense and data protection, but also the unique challenges of AI and data-driven environments. His expertise spans data collection, forensics, and crafting robust security and privacy strategies specifically tailored for heavily regulated industries. Brandon's ability to navigate complex data systems and collaborate with
 multinationals to establish best practices is well-recognized within the industry, as evidenced by his frequent speaking engagements and guest lectures.
 </blockquote>
@@ -105,7 +109,7 @@ RSVP:<br>
 **Location:** Lunch Provided
 Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
 ZOOM link provided for remote attendees
-
+<br><br>
 Speaking at OWASP San Antonio Chapter Events
 --------------------------------------------
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
