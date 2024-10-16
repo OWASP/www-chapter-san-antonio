@@ -38,7 +38,7 @@ Containers 101- Optiv
 Container Security-A discussion
 Details
 Topics- See abstracts below
-
+<br>
 Containers 101- Optiv
 <Br>
 Security challenges and opportunities in containerization- Palo Alto
@@ -64,6 +64,7 @@ Social Hour after
 Presentations will include:
 <BR><br>
 I. Containers 101-Optiv
+<br>
 Container Security Best Practices and Tooling-Optiv
 <br><br>
 
@@ -77,7 +78,13 @@ In 2023, 71% of enterprises admitted their AppSec programs were reactive, playin
 The key is to move from a compliance-based approach to managing application risk.
 </blockquote>
 <br><br>
-**Speaker:** 
+IV. Protecting AI: The ultimate Game of Cat and Mouse:
+<br>
+Panel-Moderator-Brandon Pinzon
+<br>
+Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
+<Br><br?
+**Speakers:** 
 <blockquote>
 Containers 101-Optiv
   <br>
@@ -105,7 +112,10 @@ multinationals to establish best practices is well-recognized within the industr
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-sanantonio/events/299305618/" target="_blank">Meetup (online)</a>
 <br><br>
-
+Panel Guest-Eddie Contreras
+<br>
+Edward has spent his career protecting companies and organizations from cyber risk and crime. He has guided companies through global breaches, cyber and digital transformation, and risk management. He spent 22 years in the Army as a signal Warrant Officer with deployments to combat zones and earning a bronze star in the process. His core expertise has positioned him to lead cyber teams at systemically important financial institutions while enabling business success with minimal risk exposure. He is currently the Sr. Executive Vice President and Chief Information Security Officer at Frost Bank in San Antonio, Texas.
+<br><br>
 **Location:** Lunch Provided
 Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
 ZOOM link provided for remote attendees
