@@ -27,7 +27,7 @@ We usually have a talks that related to information and application security.
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
-### OWASP San Antonio Chapter Meeting April 2024 ###
+### OWASP San Antonio Quarterly Chapter Meeting October 18th 2024 ###
 
 **When:** OWASP San Antonio Chapter Qtrly Meeting-Oct 18th 2024 (Friday)
 <blockquote> 
