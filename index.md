@@ -30,28 +30,21 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 ### OWASP San Antonio Chapter Meeting April 2024 ###
 
 **When:** OWASP San Antonio Chapter Qtrly Meeting-Oct 18th 2024 (Friday)
+<blockquote> 
 
 **Presentation: Container Security-A discussion Details** 
 <blockquote> 
-  <br>
-Containers 101- Optiv
-Container Security-A discussion
+<br><br>
 Details
+  <br><br>
 Topics- See abstracts below
-<br>
-Containers 101- Optiv
-<Br>
-Security challenges and opportunities in containerization- Palo Alto
-<Br>
-From Reactive to Effective: Building Application Security that Works-Mend IO
-<Br>
-AI Benefits and Challenges for AppSec Panel-Brandon Pinson-Moderator: Jonathan Brown, Chris Lindsey, Joseph Gregorio.
+
 <br><br>
 Lunch Provided
 Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
-<br>
+<br><br>
 ZOOM link provided for remote attendees
-<Br>
+<Br><br>
 
 We encourage everyone to attend in person. We will have door prizes and excellent food for all to enjoy, as you take advantage of this excellent networking opportunity!
 <br>
