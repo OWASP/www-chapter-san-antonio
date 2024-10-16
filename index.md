@@ -85,7 +85,7 @@ Panel-Moderator-Brandon Pinzon
 Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 <Br><br>
 </blockquote>
-<br?<br>
+<br><br>
 **Speakers:** 
 <blockquote>
   <br>
