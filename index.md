@@ -84,6 +84,7 @@ Panel-Moderator-Brandon Pinzon
 <br><br>
 Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 <Br><br?
+</blockquote>
 **Speakers:** 
 <blockquote>
 Containers 101-Optiv
