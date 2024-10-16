@@ -83,8 +83,9 @@ IV. Protecting AI: The ultimate Game of Cat and Mouse:
 Panel-Moderator-Brandon Pinzon
 <br><br>
 Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
-<Br><br?
+<Br><br>
 </blockquote>
+<br?<br>
 **Speakers:** 
 <blockquote>
 Containers 101-Optiv
