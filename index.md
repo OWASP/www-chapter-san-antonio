@@ -76,7 +76,7 @@ III. From Reactive to Effective: Building Application Security that Works-Mend I
 <br><br>
 In 2023, 71% of enterprises admitted their AppSec programs were reactive, playing catch-up with vulnerability alerts -– while at the same time, applications remain the top target for threat actors. That adds up to increased business risk for a lot of companies and fuels an urgent need to improve application security strategies. But how?
 The key is to move from a compliance-based approach to managing application risk.
-</blockquote>
+<blockquote>
 <br><br>
 IV. Protecting AI: The ultimate Game of Cat and Mouse:
 <br>
@@ -84,10 +84,10 @@ Panel-Moderator-Brandon Pinzon
 <br><br>
 Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 <Br><br>
-</blockquote>
+<blockquote>
 <br><br>
 **Speakers:** 
-</blockquote>
+<blockquote>
   <br>
 Containers 101-Optiv
   <br>
