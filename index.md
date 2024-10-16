@@ -88,6 +88,7 @@ Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 <br?<br>
 **Speakers:** 
 <blockquote>
+  <br>
 Containers 101-Optiv
   <br>
 Anthony Pipia has over seven years of experience in information security, spending most of that time working in the application security space. His experience ranges from performing web application assessments, to managing various application security programs. With a focus on development and automation, he has built automated solutions at various companies to support application security tooling and metrics.
