@@ -81,7 +81,7 @@ The key is to move from a compliance-based approach to managing application risk
 IV. Protecting AI: The ultimate Game of Cat and Mouse:
 <br>
 Panel-Moderator-Brandon Pinzon
-<br>
+<br><br>
 Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 <Br><br?
 **Speakers:** 
