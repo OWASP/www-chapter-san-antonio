@@ -87,7 +87,7 @@ Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
 </blockquote>
 <br><br>
 **Speakers:** 
-<blockquote>
+</blockquote>
   <br>
 Containers 101-Optiv
   <br>
