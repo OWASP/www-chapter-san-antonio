@@ -27,12 +27,12 @@ We usually have a talks that related to information and application security.
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
-### OWASP San Antonio Quarterly Chapter Meeting October 18th 2024 ###
+### OWASP San Antonio Quarterly Chapter Meeting Friday January 17th 2025  11an-2pm ###
 
-**When:** OWASP San Antonio Chapter Qtrly Meeting-Oct 18th 2024 (Friday)
+**When:** OWASP San Antonio Chapter Qtrly Meeting-January 17th, 2025 11am-2pm (Friday)
 <blockquote> 
 
-**Presentation: Container Security-A discussion Details** 
+**Presentation: Shift Left - A discussion of AppSec Best Practices** 
 <blockquote> 
 <br><br>
 Details
@@ -43,7 +43,7 @@ Topics- See abstracts below
 Lunch Provided
 Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
 <br><br>
-ZOOM link provided for remote attendees
+ZOOM link provided for remote attendees- see Meetup for Zoom link
 <Br><br>
 
 We encourage everyone to attend in person. We will have door prizes and excellent food for all to enjoy, as you take advantage of this excellent networking opportunity!
@@ -56,48 +56,70 @@ Social Hour after
 <br> <br>
 Presentations will include:
 <BR><br>
-I. Containers 101-Optiv
+Topics- See abstracts below
+<BR><br>
+Strategies for Aligning Programs with Modern Expectations-Frost Bank
 <br>
-Container Security Best Practices and Tooling-Optiv
+Cultivating Developer Adoption in the era of Artificial Intelligence-Synk
+<br>
+The radical future of app and API security is in production-Contrast Security
+<br>
+Shift Left: Design for Security and Quality-CheckMarx
+<BR><br>
+I. Strategies for Aligning Programs with Modern Expectations
+Vipul Gupta-SVP Frost Bank
+<br><br>
+In this talk, Vipul plans to share his experience with building and scaling an Application Security program. He will share why engaging with development and business teams is essential for the Shift Left journey.
 <br><br>
 
-II. Securing APIs in the Cloud: Insights and Best Practices- Palo Alto
+II. Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
 <br><br>
-This presentation explores the security challenges and opportunities in containerization, emphasizing a defense-in-depth approach. We begin by discussing the widespread adoption of containers and the emerging trends driving innovation, such as serverless computing and hybrid/multi-cloud environments. We then examine key security concerns, including container sprawl, misconfigurations, and supply chain vulnerabilities. A defense-in-depth strategy, starting with shifting security left during development, followed by securing images at rest and implementing runtime protection, ensures comprehensive container security. By integrating cloud workload protection platforms (CWPP) with broader CNAPP strategies, organizations can safeguard containers throughout their entire lifecycle, from code to production
+In today’s fast-paced, AI-driven development landscape, securing developer adoption is key to integrating security seamlessly into workflows. This presentation explores practical strategies to overcome challenges like trust, tooling complexity, and unclear ownership. By focusing on people, processes, and tools, we demonstrate how to empower developers, reduce friction, and scale security effectively. Attendees will gain actionable insights to foster a collaborative culture where security becomes a natural part of development.
+One of the biggest challenges that organizations face when shifting left is getting developers to actually adopt the “shift left" tools. This presentation speaks to how to overcome that.
 <br><br>
-III. From Reactive to Effective: Building Application Security that Works-Mend IO
+III. Development Team Transformation -Contrast Security
 <br><br>
-In 2023, 71% of enterprises admitted their AppSec programs were reactive, playing catch-up with vulnerability alerts -– while at the same time, applications remain the top target for threat actors. That adds up to increased business risk for a lot of companies and fuels an urgent need to improve application security strategies. But how?
-The key is to move from a compliance-based approach to managing application risk.
+The lines between proactive and reactive cyber defenses are somewhat arbitrary. If you blur those lines, you can some serious advantages. A SAST or SCA tool finding is a theoretical vulnerability that may or may not be exploitable, but if you can see that a vulnerability is within the blast radius of active probes or attacks, it suddenly becomes real. What might have been labeled as "critical" in pre-prod suddenly becomes "super-critical". On the other hand, things that are not exploitable in a production context due to compensating control, can be deprioritized preserving the limited attention of development for things that really matter. Join DevSecOps pioneer, Larry Maccherone, for this thought-provoking discussion on going right to shift left
 <blockquote>
 <br><br>
-IV. Protecting AI: The ultimate Game of Cat and Mouse:
-<br>
-Panel-Moderator-Brandon Pinzon
+IV. Shift Left: Design for Security and Quality-CheckMarx:
 <br><br>
-Panelists: Eddie Contreras- Frost, Chris Lindsey-Mend, Joseph Gregorio-Frost.
-<Br><br>
+This presentation will discuss the elements of design phase security, highlighting the critical role of design decisions in achieving a secure and high-quality software product.
+ 
+<br><br>
 <blockquote>
 <br><br>
 **Speakers:** 
 <blockquote>
   <br>
-Containers 101-Optiv
+Strategies for Aligning Programs with Modern Expectations
+Vipul Gupta-SVP Frost Bank
   <br>
-Anthony Pipia has over seven years of experience in information security, spending most of that time working in the application security space. His experience ranges from performing web application assessments, to managing various application security programs. With a focus on development and automation, he has built automated solutions at various companies to support application security tooling and metrics.
-Pipia also has experience as an educator, providing training on security topics. He has instructed a Cyber Security Bootcamp and has built and delivered secure development training for engineers. He leverages his teaching experience when working within application security teams and communicating with engineers and developers in the organization.
-Prior to joining Optiv, Pipia worked on security teams varying from large tech companies to startups. He has had experience as a crucial member of a mature application security team, as well as the sole member and owner of application security at an organization.
+Vipul Gupta has an extensive experience in a variety of Information Technology & Security roles. In his current role, he is responsible for establishing as well as growing Application Security, Data Governance, Records Management, and Security Architecture programs. He has spent the last 12 years focusing on Security within the Financial industry. He is passionate about Information Security and is always eager to learn as well as share his knowledge with others in this field. Vipul holds a Master of Engineering in Computer Science and Engineering from the University of South Carolina and holds industry certifications such as Certified Information Systems Security Professional (CISSP) and Certified Secure Software Lifecycle Professional (CSSLP). In his free time, Vipul enjoys serving his community in multiple volunteer programs and spending time with his family.
 <br> <br>
-Security challenges and opportunities in containerization -Palo Alto
+Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
 <br><br>
-Jonathan Brown is a Solutions Architect at Palo Alto Networks, specializing in Prisma Cloud. With over 15 years of experience in technology, Jonathan has a deep understanding of traditional enterprise architecture and the security challenges organizations face as they transition to the cloud. Before joining Palo Alto Networks, Jonathan worked as an infrastructure engineer in data centers and at Twistlock, a pioneer in Cloud Native Security for Containers, acquired by Palo Alto Networks in 2019. At Palo Alto Networks, Jonathan focuses on helping organizations secure their cloud environments through comprehensive security strategies and cutting-edge technologies.
+Joey is a Senior Solutions Engineer with Snyk, based out of Chicago, IL. After studying computer engineering and software development, Joey has spent his career focused on making complex technical topics and solutions easily accessible to all types of audiences. His 15-year career in technology has given him experience in a wide variety of areas, including manufacturing, IoT, observability, and cybersecurity.
+
+https://sessionize.com/joey-arowcavage
+
+joseph.arowcavage@snyk.io
 <br><br>
-From Reactive to Effective: Building Application Security that Works-Mend IO
+Development Team Transformation -Contrast Security
   <br><br>
-Chris Lindsey is a seasoned speaker who has appeared at conferences, webinars, and private events. Currently building an online community and creating a podcast series, Chris draws on expertise from more than 15 years of direct security experience and over 35 years of experience leading teams in programming and software, solutions, and security architecture.
+Larry Maccherone is a thought leader on DevSecOps, Agile, and Analytics. At Comcast, Larry launched and scaled the DevSecOps Transformation program over five years. In his DevSecOps Transformation role at Contrast, he's now looking to apply what he learned to guide organizations with a framework for safely empowering development teams to take ownership of the security of their products. Larry was a founding Director at Carnegie Mellon's CyLab, researching cybersecurity and software engineering. While there, he co-led the launch of the DHS-funded Build-Security-In initiative. Larry has also served as Principal Investigator for the NSA's Code Assessment Methodology Project which wrote the book on how to evaluate application security tools and received the Department of Energy's Los Alamos National Labs Fellow award.
+
+Contact Larry on his LinkedIn page: https://LinkedIn.com/in/LarryMaccherone
 <br>
 For three years, Chris built and led an entire application security program that includes the implementation of mature AppSec programs, including oversight of security processes and procedures, SAST, DAST, CSA/OSA, compliance, training, developer communication, code reviews, application inventory gathering, and risk analysis.
-<br>
+<br><br>
+Shift Left: Design for Security and Quality-CheckMarx
+<br><br?
+Adrian Acuna is a US Navy Veteran currently serving as a Senior Sales Engineer at Checkmarx. With over 15 years of extensive experience in cybersecurity, Adrian has held key roles at Synopsys, Denim Group, Protegrity, and Globalscape, where he excelled as both a Sales Engineer and Consultant. His expertise spans various critical domains, including application security, data security, and data transfer security, underscoring his comprehensive knowledge and commitment to advancing the field.
+
+619.829.5753
+Adrian.acuna@checkmarx.com
+<Br><Br>
 Panel Moderator-Brandon Pinzon
 <br>
 A seasoned leader at the forefront of AI and data security, Brandon Pinzon is an experienced Chief Security Officer, who leverages his 17+ years of experience across technology, banking, and insurance industries to guide organizations as a sought-after advisor.
@@ -107,10 +129,6 @@ multinationals to establish best practices is well-recognized within the industr
 </blockquote>
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-sanantonio/events/299305618/" target="_blank">Meetup (online)</a>
-<br><br>
-Panel Guest-Eddie Contreras
-<br>
-Edward has spent his career protecting companies and organizations from cyber risk and crime. He has guided companies through global breaches, cyber and digital transformation, and risk management. He spent 22 years in the Army as a signal Warrant Officer with deployments to combat zones and earning a bronze star in the process. His core expertise has positioned him to lead cyber teams at systemically important financial institutions while enabling business success with minimal risk exposure. He is currently the Sr. Executive Vice President and Chief Information Security Officer at Frost Bank in San Antonio, Texas.
 <br><br>
 **Location:** Lunch Provided
 Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
