@@ -60,7 +60,7 @@ Topics- See abstracts below
 <BR><br>
 Strategies for Aligning Programs with Modern Expectations-Frost Bank
 <br>
-Cultivating Developer Adoption in the era of Artificial Intelligence-Synk
+Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
 <br>
 The radical future of app and API security is in production-Contrast Security
 <br>
