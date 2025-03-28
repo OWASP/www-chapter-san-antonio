@@ -27,12 +27,12 @@ We usually have a talks that related to information and application security.
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
-### OWASP San Antonio Quarterly Chapter Meeting Friday January 17th 2025  11an-2pm ###
+### OWASP San Antonio Quarterly Chapter Meeting Friday April 11th, 2025  11an-2pm happy Hour after ###
 
-**When:** OWASP San Antonio Chapter Qtrly Meeting-January 17th, 2025 11am-2pm (Friday)
+**When:** OWASP San Antonio Chapter Qtrly Meeting-April 11th, 2025 11am-2pm (Friday)
 <blockquote> 
 
-**Presentation: Shift Left - A discussion of AppSec Best Practices** 
+**Presentation:  AI Use Cases for AppSec - A discussion of AppSec Best Practices** 
 <blockquote> 
 <br><br>
 Details
@@ -46,11 +46,11 @@ Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
 ZOOM link provided for remote attendees- see Meetup for Zoom link
 <Br><br>
 
-We encourage everyone to attend in person. We will have door prizes and excellent food for all to enjoy, as you take advantage of this excellent networking opportunity!
+We encourage everyone to attend in person. We will have door prizes and excellent food for all to enjoy, as you take advantage of this excellent learning and  networking opportunity!
 <br>
 Please feel free to pass this information on to your peers and team members.+
 <Br>
-Please reply “ONSITE” if you plan on attending in person so we can finalize headcount for food and room attendance 😊
+Please reply “ONSITE” in MEETUP registration page if you plan on attending in person so we can finalize headcount for food and room attendance 😊
 <br>
 Social Hour after
 <br> <br>
@@ -58,74 +58,71 @@ Presentations will include:
 <BR><br>
 Topics- See abstracts below
 <BR><br>
-Strategies for Aligning Programs with Modern Expectations-Frost Bank
+Host Intro-Potential AI use cases for Application Security
 <br>
-Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
+Leveraging AI for Vulnerability Identification-NowSecure
 <br>
-The radical future of app and API security is in production-Contrast Security
+AI coding agents -Risks and Benefits-Endor Lab
 <br>
-Shift Left: Design for Security and Quality-CheckMarx
+AppSec for AI AND NHI (Non Human Identity) -GrayLog
+<br>
+Shadow AI and AppSec: What You Don’t Know Will Get You!-ByteWhisper
 <BR><br>
-I. Strategies for Aligning Programs with Modern Expectations
-Vipul Gupta-SVP Frost Bank
+Host Intro-Potential AI use cases for Application Security
+Joseph Gregario-VP Frost Bank
 <br><br>
-In this talk, Vipul plans to share his experience with building and scaling an Application Security program. He will share why engaging with development and business teams is essential for the Shift Left journey.
+In this talk, Joe will share his experience with building and scaling AI in an Application Security program.
 <br><br>
-
-II. Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
+1. Leveraging AI for Vulnerability Identification-NowSecure
 <br><br>
-In today’s fast-paced, AI-driven development landscape, securing developer adoption is key to integrating security seamlessly into workflows. This presentation explores practical strategies to overcome challenges like trust, tooling complexity, and unclear ownership. By focusing on people, processes, and tools, we demonstrate how to empower developers, reduce friction, and scale security effectively. Attendees will gain actionable insights to foster a collaborative culture where security becomes a natural part of development.
-One of the biggest challenges that organizations face when shifting left is getting developers to actually adopt the “shift left" tools. This presentation speaks to how to overcome that.
+Artificial intelligence (AI) language models are emerging as valuable tools for mobile security analysts and developers, offering significant benefits such as aiding in structured vulnerability assessments or generating code. However, limitations such as “hallucinations” in which the model generates inaccurate or misleading outputs highlight the importance of human oversight in managing risk posed by AI.
+This talk covers a novel approach for recovering application source code, leveraging AI language models to transform pseudo-disassembly into high-level source code. This method is able to handle complex abstractions introduced in high-level languages SwiftUI or Dart and generates output in popular programming languages like Swift, C#, Kotlin, Java, Python or even Bash
 <br><br>
-III. Development Team Transformation -Contrast Security
+II. AI coding agents -Risks and Benefits-Endor Lab
 <br><br>
-The lines between proactive and reactive cyber defenses are somewhat arbitrary. If you blur those lines, you can some serious advantages. A SAST or SCA tool finding is a theoretical vulnerability that may or may not be exploitable, but if you can see that a vulnerability is within the blast radius of active probes or attacks, it suddenly becomes real. What might have been labeled as "critical" in pre-prod suddenly becomes "super-critical". On the other hand, things that are not exploitable in a production context due to compensating control, can be deprioritized preserving the limited attention of development for things that really matter. Join DevSecOps pioneer, Larry Maccherone, for this thought-provoking discussion on going right to shift left
+The proliferation of AI coding agents will accelerate the production of code, but what are the risks associated with this acceleration? In many ways the core challenge to securing these outputs will be the familiar fundamental challenges that appsec has always faced: maintaining an understanding of your inventory and risk-posture, conducting security assessments at scale, and managing processes for risk acceptance and remediation. Good appsec fundamentals will be critical in the new era of AI generated code. But coding agents also introduce novel concerns born from the inherent differences between these agents and human developers, as well the additional layers of abstraction which will become intrinsic to AI development: understanding how to vet and validate non-human agents, identifying the operational risks posed by agents trained on open-source, and the complexity of managing code developed through natural language will all require the development of new practices in appsec. This talk will look at some of the new risks that will arise in the era of large scale AI code development, and discuss possible paths forward for deploying such agents in a secure way.
+<br><br>
+III. AppSec for AI AND NHI -GrayLog
+<br><br>
+APPSEC FOR AI AND NHI - As we're empowering NHIs (Non Human Identity) to take on greater responsibilities, it's smart to wonder how we'll keep these good bots in bounds. This isn't possible to answer without acknowledging a dirty little secret -- while modern software is already driven by bots, modern security tools fall short in observing and regulating interactions between bots and APIs, whether those bots are trusted NHIs or malicious attackers. This session dispels a few myths about bots and bot detection and shows a few practical considerations and techniques to identify and block high-risk activities.t
 <blockquote>
 <br><br>
-IV. Shift Left: Design for Security and Quality-CheckMarx:
+IV. The Shadow AI and AppSec: What You Don’t Know Will Get You!-ByteWhisper
 <br><br>
-This presentation will discuss the elements of design phase security, highlighting the critical role of design decisions in achieving a secure and high-quality software product.
- 
-<br><br>
+The over-the-top headlines about artificial intelligence (AI) have only been outstripped by the breakneck speed by which many are adopting AI to transform their organizations. Shadow AI creates significant security exposures, like development teams processing sensitive customer data through unauthorized AI tools for creating mission-critical solutions using unvetted open-source AI models. This session will focus on where Shadow AI and appsec intersect – the coding co-pilots, the platforms, and the risks that they represent to your organization. This session will provide an overview of Shadow AI, how application development might unknowingly create Shadow AI, and tools to identify and mitigate Shadow AI.
+ <br><br>
 <blockquote>
 <br><br>
 **Speakers:** 
 <blockquote>
   <br>
-Strategies for Aligning Programs with Modern Expectations
-Vipul Gupta-SVP Frost Bank
+Leveraging AI for Vulnerability Identification
+  <br><br>
+Sergi "Pancake" Alvarez- NowSecure
+Solutions Engineer
   <br>
-Vipul Gupta has an extensive experience in a variety of Information Technology & Security roles. In his current role, he is responsible for establishing as well as growing Application Security, Data Governance, Records Management, and Security Architecture programs. He has spent the last 12 years focusing on Security within the Financial industry. He is passionate about Information Security and is always eager to learn as well as share his knowledge with others in this field. Vipul holds a Master of Engineering in Computer Science and Engineering from the University of South Carolina and holds industry certifications such as Certified Information Systems Security Professional (CISSP) and Certified Secure Software Lifecycle Professional (CSSLP). In his free time, Vipul enjoys serving his community in multiple volunteer programs and spending time with his family.
+Sergi Alvarez is a Mobile Security Research Engineer at NowSecure. Pancake has more than 25 years of experience in the reverse engineering and security fields. Author and maintainer of radare2, r2frida and other plugins around the radare ecosystem, he began working as a forensic analyst, but moved to other roles as embedded system developer, software developer, optimizing codecs in assembly for a variety of architectures.
 <br> <br>
-Cultivating Developer Adoption in the era of Artificial Intelligence-Snyk
+AI coding agents -Risks and Benefits 
+<br> <br>
+Nate Michalov- Endor Labs
+Solutions Architect
 <br><br>
-Joey is a Senior Solutions Engineer with Snyk, based out of Chicago, IL. After studying computer engineering and software development, Joey has spent his career focused on making complex technical topics and solutions easily accessible to all types of audiences. His 15-year career in technology has given him experience in a wide variety of areas, including manufacturing, IoT, observability, and cybersecurity.
-
-https://sessionize.com/joey-arowcavage
-
-joseph.arowcavage@snyk.io
+Nate Michalov is a seasoned application security professional with over 12 years of diverse experience. Throughout his career, Nate has contributed to organizations such as Endor Labs, Apiiro, Snyk, Veracode, and Annkissam, where he has focused on securing digital ecosystems while aligning technological strategies with business objectives. In various roles including customer success architect, senior sales engineer, and senior SAST specialist, Nate has consistently tackled complex challenges at the intersection of business and technology. Known for his collaborative approach and dedication to staying informed about emerging trends, Nate is recognized as a trusted advisor in promoting innovation and resilience in application security.
+<br><br>
+AppSec for AI AND NHI
+<br><br>
+Bob Dickson-Graylog
 <br><br>
 Development Team Transformation -Contrast Security
   <br><br>
-Larry Maccherone is a thought leader on DevSecOps, Agile, and Analytics. At Comcast, Larry launched and scaled the DevSecOps Transformation program over five years. In his DevSecOps Transformation role at Contrast, he's now looking to apply what he learned to guide organizations with a framework for safely empowering development teams to take ownership of the security of their products. Larry was a founding Director at Carnegie Mellon's CyLab, researching cybersecurity and software engineering. While there, he co-led the launch of the DHS-funded Build-Security-In initiative. Larry has also served as Principal Investigator for the NSA's Code Assessment Methodology Project which wrote the book on how to evaluate application security tools and received the Department of Energy's Los Alamos National Labs Fellow award.
-
-Contact Larry on his LinkedIn page: https://LinkedIn.com/in/LarryMaccherone
-<br>
-For three years, Chris built and led an entire application security program that includes the implementation of mature AppSec programs, including oversight of security processes and procedures, SAST, DAST, CSA/OSA, compliance, training, developer communication, code reviews, application inventory gathering, and risk analysis.
+Rob Dickinson: Drawing from his experience at Dell and Intel, as well as several early-stage startups, Rob possesses a unique perspective on big data and API security, coupled with deep empathy for the present and coming challenges of monitoring and securing AI driven and supported technologies. In his latest venture, Rob founded Resurface (now Graylog API Security) to offer a comprehensive first-party solution for API observation, monitoring and alerting, but grounded in open standards Outside of his professional pursuits, Rob diligently balances his responsibilities as a husband to his wife and father to their three children in Boulder, Colorado.
 <br><br>
-Shift Left: Design for Security and Quality-CheckMarx
+The Shadow AI and AppSec: What You Don’t Know Will Get You!
 <br><br?
-Adrian Acuna is a US Navy Veteran currently serving as a Senior Sales Engineer at Checkmarx. With over 15 years of extensive experience in cybersecurity, Adrian has held key roles at Synopsys, Denim Group, Protegrity, and Globalscape, where he excelled as both a Sales Engineer and Consultant. His expertise spans various critical domains, including application security, data security, and data transfer security, underscoring his comprehensive knowledge and commitment to advancing the field.
-
-619.829.5753
-Adrian.acuna@checkmarx.com
+John Dickson-CEO-ByteWhisper
+John Dickson is CEO of Bytewhisper Security and an internationally recognized cybersecurity leader who has advised organizations on cybersecurity risk for over 25 years.  John was a Principal at Denim Group where he guided that company to a successful acquisition by Coalfire in 2021.  A former U.S. Air Force intelligence and cyber officer, Dickson served in the Air Force Information Warfare Center (AFIWC) and was a member of the Air Force Computer Emergency Response Team (AFCERT) in the 1990s.  John has been researching and speaking about the convergence of artificial intelligence and cybersecurity and its impact on organizations since 2018.
 <Br><Br>
-Panel Moderator-Brandon Pinzon
-<br>
-A seasoned leader at the forefront of AI and data security, Brandon Pinzon is an experienced Chief Security Officer, who leverages his 17+ years of experience across technology, banking, and insurance industries to guide organizations as a sought-after advisor.
-  <br>
-He spearheads comprehensive security programs, encompassing not just traditional areas like cyber defense and data protection, but also the unique challenges of AI and data-driven environments. His expertise spans data collection, forensics, and crafting robust security and privacy strategies specifically tailored for heavily regulated industries. Brandon's ability to navigate complex data systems and collaborate with
-multinationals to establish best practices is well-recognized within the industry, as evidenced by his frequent speaking engagements and guest lectures.
 </blockquote>
 RSVP:<br>
 <a href="https://www.meetup.com/owasp-sanantonio/events/299305618/" target="_blank">Meetup (online)</a>
