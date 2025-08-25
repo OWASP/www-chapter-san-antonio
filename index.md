@@ -1,3 +1,4 @@
+
 ---
 
 layout: col-sidebar
@@ -34,7 +35,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 **When:** September 19th, 2025 11am-2pm (Friday)
 
 **Where:** Hybrid Event
-* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): `Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257`
+* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): <ins>Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257</ins>
 * Virtual ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Zoom Call
 
 **Featured Presentations:**
