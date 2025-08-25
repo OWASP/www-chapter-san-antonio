@@ -29,13 +29,13 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 ## Upcoming Events ##
 ### 🎉OWASP San Antonio Quarterly Chapter Meeting (and Happy Hour after)🎉 ###
 
+**Presentation:** AppSec War Stories: A Fun Discussion of In-the-Trenches Warfare
+
 **When:** September 19th, 2025 11am-2pm (Friday)
 
 **Where:** Hybrid Event
 * On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): `Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257`
 * Virtual ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Zoom Call
-
-**Presentation:** AppSec War Stories: A Fun Discussion of In-the-Trenches Warfare
 
 **Featured Presentations:**
 
