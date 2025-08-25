@@ -51,10 +51,17 @@ To explore key takeaways from the Log4j vulnerability (Log4Shell) and how it res
 Topics of discussion will cover Agentic AI, defending against AI-powered attacks (deepfakes, phishing, social engineering, etc.), securing the expanded attack surface for APIs and Microservices, emerging threats from Quantum Computing, and preventing Supply Chain attacks.
 
 Featured panelists:
--   Eddie Contreras - CISO - Frost Bank
--   John Dickson - CEO - ByteWhisper
--   Chris Young - OpenText
--   Andrew Gordon - Snyk
+-   **Eddie Contreras - CISO - Frost Bank**
+Edward has spent his career protecting companies and organizations from cyber risk and crime. He has guided companies through global breaches, cyber and digital transformation, and risk management. He spent 22 years in the Army as a signal Warrant Officer with deployments to combat zones and earning a bronze star in the process. His core expertise has positioned him to lead cyber teams at systemically important financial institutions while enabling business success with minimal risk exposure. He is currently the Sr. Executive Vice President and Chief Information Security Officer at Frost Bank in San Antonio, Texas.
+
+-   **John Dickson - CEO - ByteWhisper**
+John Dickson is CEO of Bytewhisper Security and an internationally recognized cybersecurity leader who has advised organizations on cybersecurity risk for over 25 years. John was a Principal at Denim Group where he guided that company to a successful acquisition by Coalfire in 2021. A former U.S. Air Force intelligence and cyber officer, Dickson served in the Air Force Information Warfare Center (AFIWC) and was a member of the Air Force Computer Emergency Response Team (AFCERT) in the 1990s. John has been researching and speaking about the convergence of artificial intelligence and cybersecurity and its impact on organizations since 2018.
+
+-   **Chris Young - OpenText**
+Chris is a Full-Stack Developer and Cybersecurity Specialist with expertise in Application Security, DevSecOps, Data Protection, Identity, and Security Operations. Over the past 14 years at OpenText, he has held strategic sales roles spanning Engineering, Professional Services, Big Data Analytics, and Enterprise Computing. Previously, he led Application Development at Citizens Bank, launching their first online and mobile banking platforms. He began his tech career at Humana, building large-scale logistical and linear regression models foundational to machine learning. Chris is a Lean Six Sigma Black Belt and a 1997 graduate of the U.S. Military Academy at West Point.
+
+-   **Andrew Gordon - Snyk**
+Andrew Gordon is a seasoned IT professional and application security advocate with over two decades of experience leading enterprise-scale technology transformations. Before joining Snyk as a Senior Sales Engineer, Andrew held pivotal roles across industries, including serving as Director of IT at Spectrum and leading application delivery at Reinsurance Group of America. His background spans project and product management, software development, and systems integration—particularly in CRM, ERP, and quote-to-cash (Q2C) environments. Known for building high-performing, globally distributed teams, Andrew brings a deep understanding of both business strategy and technical execution. He holds certifications including Certified Scrum Master, SAFe 4 Agilist, and ITIL Foundations.
 
 **Additional Meeting Details**
 * Lunch Provided
