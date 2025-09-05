@@ -1,3 +1,4 @@
+
 ---
 
 layout: col-sidebar
@@ -34,7 +35,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 **When:** September 19th, 2025 11am-2pm (Friday)
 
 **Where:** Hybrid Event
-* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): `Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257`
+* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
 * Virtual ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Zoom Call
 
 **Featured Presentations:**
@@ -46,6 +47,9 @@ Finally, we'll look at the emerging security challenges presented by AI. We'll d
 
 **Lessons Learned in Application Security from Log4j: A Wake-Up Call for the Industry - OpenText**  
 To explore key takeaways from the Log4j vulnerability (Log4Shell) and how it reshaped the approach to application security, particularly in open-source and enterprise software environments.
+
+**Agentic AI for Threat Modeling - Joseph Gregorio**
+This session explores how agentic AI systems can be applied to threat modeling, enabling more autonomous, adaptive, and scalable approaches to identifying and analyzing security risks. Attendees will learn how these emerging technologies can complement traditional methods and enhance overall risk management.
 
 **Security Panel: AppSec Futures – Opportunities and Challenges**  
 Topics of discussion will cover Agentic AI, defending against AI-powered attacks (deepfakes, phishing, social engineering, etc.), securing the expanded attack surface for APIs and Microservices, emerging threats from Quantum Computing, and preventing Supply Chain attacks.
@@ -63,9 +67,17 @@ Chris is a Full-Stack Developer and Cybersecurity Specialist with expertise in A
 -   **Andrew Gordon - Senior Sales Engineer - Snyk**  
 Andrew Gordon is a seasoned IT professional and application security advocate with over two decades of experience leading enterprise-scale technology transformations. Before joining Snyk as a Senior Sales Engineer, Andrew held pivotal roles across industries, including serving as Director of IT at Spectrum and leading application delivery at Reinsurance Group of America. His background spans project and product management, software development, and systems integration—particularly in CRM, ERP, and quote-to-cash (Q2C) environments. Known for building high-performing, globally distributed teams, Andrew brings a deep understanding of both business strategy and technical execution. He holds certifications including Certified Scrum Master, SAFe 4 Agilist, and ITIL Foundations.
 
+- **Joseph Gregorio - VP of AppSec - Frost Bank**
+Joseph Gregorio is the Vice President of Application Security at Frost Bank, bringing over 30 years of experience in Information Technology. His career spans software product development, application security, third-party risk management, governance, risk and compliance, and business continuity. Joseph’s diverse background includes leadership roles across the Department of Defense, telecommunications, financial services, and banking industries. He holds multiple professional certifications, including CISSP, CSSLP, GSEC, CGEIT, and PMP. Joseph earned a Master’s in Computer Information Systems from the University of Denver and an MBA from Colorado State University.
+
 **Additional Meeting Details**
 * Lunch Provided
 * Happy Hour & Demo Lab networking after session!!!
+* Opentext
+* Synk
+* ByteWhisper
+* Wallarm
+* BlackDuck
 
 **Happy Hour - Sponsors**
 * Opentext 
