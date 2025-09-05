@@ -60,17 +60,12 @@ John Dickson is CEO of Bytewhisper Security and an internationally recognized cy
 -   **Chris Young - OpenText**  
 Chris is a Full-Stack Developer and Cybersecurity Specialist with expertise in Application Security, DevSecOps, Data Protection, Identity, and Security Operations. Over the past 14 years at OpenText, he has held strategic sales roles spanning Engineering, Professional Services, Big Data Analytics, and Enterprise Computing. Previously, he led Application Development at Citizens Bank, launching their first online and mobile banking platforms. He began his tech career at Humana, building large-scale logistical and linear regression models foundational to machine learning. Chris is a Lean Six Sigma Black Belt and a 1997 graduate of the U.S. Military Academy at West Point.
 
--   **Andrew Gordon - Snyk**  
+-   **Andrew Gordon - Senior Sales Engineer - Snyk**  
 Andrew Gordon is a seasoned IT professional and application security advocate with over two decades of experience leading enterprise-scale technology transformations. Before joining Snyk as a Senior Sales Engineer, Andrew held pivotal roles across industries, including serving as Director of IT at Spectrum and leading application delivery at Reinsurance Group of America. His background spans project and product management, software development, and systems integration—particularly in CRM, ERP, and quote-to-cash (Q2C) environments. Known for building high-performing, globally distributed teams, Andrew brings a deep understanding of both business strategy and technical execution. He holds certifications including Certified Scrum Master, SAFe 4 Agilist, and ITIL Foundations.
 
 **Additional Meeting Details**
 * Lunch Provided
 * Happy Hour & Demo Lab networking after session!!!
-* Opentext
-* Synk
-* ByteWhisper
-* Wallarm
-* BlackDuck
 
 **Happy Hour - Sponsors**
 * Opentext 
