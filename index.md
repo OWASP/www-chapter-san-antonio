@@ -1,4 +1,5 @@
 
+
 ---
 
 layout: col-sidebar
@@ -35,7 +36,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 **When:** September 19th, 2025 11am-2pm (Friday)
 
 **Where:** Hybrid Event
-* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
+* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): `Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257`
 * Virtual ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Zoom Call
 
 **Featured Presentations:**
@@ -61,7 +62,7 @@ Edward has spent his career protecting companies and organizations from cyber ri
 -   **John Dickson - CEO - ByteWhisper**  
 John Dickson is CEO of Bytewhisper Security and an internationally recognized cybersecurity leader who has advised organizations on cybersecurity risk for over 25 years. John was a Principal at Denim Group where he guided that company to a successful acquisition by Coalfire in 2021. A former U.S. Air Force intelligence and cyber officer, Dickson served in the Air Force Information Warfare Center (AFIWC) and was a member of the Air Force Computer Emergency Response Team (AFCERT) in the 1990s. John has been researching and speaking about the convergence of artificial intelligence and cybersecurity and its impact on organizations since 2018.
 
--   **Chris Young - OpenText**  
+-   **Chris Young - Product Manager - OpenText**  
 Chris is a Full-Stack Developer and Cybersecurity Specialist with expertise in Application Security, DevSecOps, Data Protection, Identity, and Security Operations. Over the past 14 years at OpenText, he has held strategic sales roles spanning Engineering, Professional Services, Big Data Analytics, and Enterprise Computing. Previously, he led Application Development at Citizens Bank, launching their first online and mobile banking platforms. He began his tech career at Humana, building large-scale logistical and linear regression models foundational to machine learning. Chris is a Lean Six Sigma Black Belt and a 1997 graduate of the U.S. Military Academy at West Point.
 
 -   **Andrew Gordon - Senior Sales Engineer - Snyk**  
@@ -73,11 +74,6 @@ Joseph Gregorio is the Vice President of Application Security at Frost Bank, bri
 **Additional Meeting Details**
 * Lunch Provided
 * Happy Hour & Demo Lab networking after session!!!
-* Opentext
-* Synk
-* ByteWhisper
-* Wallarm
-* BlackDuck
 
 **Happy Hour - Sponsors**
 * Opentext 
