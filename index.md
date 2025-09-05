@@ -1,5 +1,3 @@
-
-
 ---
 
 layout: col-sidebar
