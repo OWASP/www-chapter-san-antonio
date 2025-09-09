@@ -1,5 +1,6 @@
 ### Leaders
 * [Brent Daugherty](mailto:brent.daugherty@owasp.org)
+* [Can Vo](mailto:can.vo@owasp.org)
 * [Joseph Gregorio](mailto:joseph.gregorio@owasp.org)
 * [Rodney Fielding](mailto:rodney.sfielding@owasp.org)
 * [Chris Sellards](mailto:chris.sellards@owasp.org)
