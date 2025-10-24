@@ -1,0 +1,39 @@
+community:
+  - name: chapter-sanantonio
+    platform: slack
+    url: https://owasp.slack.com/archives/CCWMEL5K4
+    description: chapter of San Antonio
+leaders:
+  - name: Brent Daugherty
+    email: brent.daugherty@owasp.org
+    github: BrentOptiv
+  - name: Can Vo
+    email: can.vo@owasp.org
+    github: CanVo
+  - name: Joseph Gregorio
+    email: joseph.gregorio@owasp.org
+  - name: Rodney Fielding
+    email: rodney.sfielding@owasp.org
+  - name: Ayesha Sohina
+    email: ayesha.sohina@owasp.org
+  - name: Xavier Jimenez
+    email: xavier.jimenez@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Texas
+  city: San Antonio
+  postal_code: '78258'
+  latitude: 29.4246002
+  longitude: -98.4951405
+meetup_group: owasp-sanantonio
+name: OWASP San Antonio
+repositories:
+  - name: www-chapter-san-antonio
+    url: https://github.com/OWASP/www-chapter-san-antonio
+    description: OWASP Foundation Web Repository
+tags:
+  - sanantonio
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-san-antonio
