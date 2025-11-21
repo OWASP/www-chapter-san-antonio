@@ -29,67 +29,96 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 ## Upcoming Events ##
 ### 🎉OWASP San Antonio Quarterly Chapter Meeting (and Happy Hour after)🎉 ###
 
-**Presentation :** AppSec War Stories: A Fun Discussion of In-the-Trenches Warfare
+### **Presentation :** AppSec Bug Bounties Programs and Discussions & Zero Trust Panel ###
 
-**When:** September 19th, 2025 (Friday)
-**Presentation Session:** 11:00am- 2:00pm
-**Happy Hour**: 2:30 pm - 4:00pm
+**> When:** December 12th, 2025 (Friday)
 
-**Where:** Hybrid Event
-* On-site ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257
-* Virtual ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/310258159/)): Zoom Call
+**> Presentation Session:** 11:00am- 2:30pm
 
-**Featured Presentations:**
+**> Happy Hour**: 2:30 pm - 4:00pm
 
-**Securing Today, Safeguarding Tomorrow: A Guide to App and AI Security - Andrew Gordon, Sr. Sales Engineer, Snyk**  
-This talk challenges the traditional, reactive approach to application security, where developers get stuck fixing issues weeks after they're created. We’ll show how new tools and processes can empower developers to integrate security directly into their workflow, making it an efficient part of the development process.
+**> Where:** Hybrid Event
+* On-site: ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/312115571/)) Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257 
+* Virtual: Zoom Call ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/312115571/))
 
-Finally, we'll look at the emerging security challenges presented by AI. We'll discuss the new "war stories" we anticipate seeing, and what developers need to know to secure both today's applications and the AI-powered systems of tomorrow.
+Join us for an in‑depth discussion on Application Security (AppSec) Bug Bounty Programs. Industry experts will share real‑world insights into the biggest challenges these programs face, and how they’ve successfully overcome them through proven strategies, best practices, innovation, and teamwork.
 
-**Lessons Learned in Application Security from Log4j: A Wake-Up Call for the Industry - Chris Young, Product Manager, OpenText**  
-To explore key takeaways from the Log4j vulnerability (Log4Shell) and how it reshaped the approach to application security, particularly in open-source and enterprise software environments.
+Whether you’re a security professional, developer, or simply curious about how bug bounty programs strengthen modern AppSec, this session will provide practical knowledge and inspiration you can take back to your own work.
 
-**Agentic AI for Threat Modeling - Joseph Gregorio, VP Application Security, Frost Bank**
-This session explores how agentic AI systems can be applied to threat modeling, enabling more autonomous, adaptive, and scalable approaches to identifying and analyzing security risks. Attendees will learn how these emerging technologies can complement traditional methods and enhance overall risk management.
+### **Featured Presentations:** ###
 
-**Security Panel: AppSec Futures – Opportunities and Challenges**  
-Topics of discussion will cover Agentic AI, defending against AI-powered attacks (deepfakes, phishing, social engineering, etc.), securing the expanded attack surface for APIs and Microservices, emerging threats from Quantum Computing, and preventing Supply Chain attacks.
+**“Featured Talk — Details To Be Announced” - Michael McKinley, Senior Cybersecurity Solutions Engineer, HackerOne**  
+
+\[Title and topic to be announced — details coming soon.\]
+
+**HackerOne** is a leading bug bounty and vulnerability coordination platform, trusted by organizations worldwide to identify and resolve security issues before they can be exploited. By connecting businesses with a global community of ethical hackers, HackerOne helps strengthen digital defenses, protect customer data, and build resilience against evolving threats.
+
+
+**“Featured Talk — Details To Be Announced” - YesWeHack**  
+
+\[Title and topic to be announced — stay tuned for details.\]
+
+Founded in 2015, **YesWeHack** is a global Bug Bounty and Vulnerability Management platform connecting organizations with tens of thousands of ethical hackers. By uncovering and patching vulnerabilities across websites, mobile apps, connected devices, and digital infrastructure, YesWeHack helps private, public, and governmental organizations strengthen security cost‑effectively. With in‑house triage, personalized support, and results‑based pricing, the platform is trusted worldwide and operates under strict compliance standards, including ISO certifications, GDPR‑compliant hosting, and CREST accreditation.
+
+**Bug Bounty in the Real World - Charles Boulware, Field CTO, Fulcrum**
+
+\[Title and topic to be announced — details coming soon.\]
+
+**Fulcrum** is a new type of integrator dedicated to solving critical business challenges across Security, Infrastructure, Cloud, and Big Data. With expertise spanning consulting and staff augmentation, MSP/MSSP services, product sales, and intellectual property, Fulcrum works shoulder‑to‑shoulder with clients to deliver results. Two‑thirds of the team are engineers—but every member is a problem solver—driven to finish the job and provide the service organizations deserve.
+
+**Security Panel: Tackling Zero Trust**  
+Join us for a dynamic panel on Zero Trust security featuring several distinguished experts. Together, they’ll explore the principles, challenges, and real‑world applications of Zero Trust, sharing insights on how organizations can strengthen resilience in today’s evolving threat landscape.
 
 Panelists
-* Eddie Contreras - CISO - Frost Bank
-* John Dickson - CEO - ByteWhisper
-* Chris Young - Product Manager - OpenText
+* Michael McKinley - Senior Cybersecurity Solutions Engineer - HackerOne
+* Cletus Taylor - Senior Cyber Security Architect - Frost Bank
+* Roman Medina, Jr - SVP, CISO - Jefferson Bank
 * Facilitator: Joseph Gregorio - VP Application Security - Frost Bank
 
-**Featured Speakers and Panelists**
--   **Eddie Contreras - CISO - Frost Bank**  
-Edward has spent his career protecting companies and organizations from cyber risk and crime. He has guided companies through global breaches, cyber and digital transformation, and risk management. He spent 22 years in the Army as a signal Warrant Officer with deployments to combat zones and earning a bronze star in the process. His core expertise has positioned him to lead cyber teams at systemically important financial institutions while enabling business success with minimal risk exposure. He is currently the Sr. Executive Vice President and Chief Information Security Officer at Frost Bank in San Antonio, Texas.
+### **Featured Speakers and Panelists** ###
+-   **Michael McKinley - Senior Cybersecurity Solutions Engineer - HackerOne**  
 
--   **John Dickson - CEO - ByteWhisper**  
-John Dickson is CEO of Bytewhisper Security and an internationally recognized cybersecurity leader who has advised organizations on cybersecurity risk for over 25 years. John was a Principal at Denim Group where he guided that company to a successful acquisition by Coalfire in 2021. A former U.S. Air Force intelligence and cyber officer, Dickson served in the Air Force Information Warfare Center (AFIWC) and was a member of the Air Force Computer Emergency Response Team (AFCERT) in the 1990s. John has been researching and speaking about the convergence of artificial intelligence and cybersecurity and its impact on organizations since 2018.
+Michael McKinley is a senior cybersecurity solutions engineer passionate about collaborating with customers and partners to strengthen their security programs and achieve meaningful outcomes. He works closely with organizations to understand their unique challenges, architect solutions that align with their goals, and help translate strategy into measurable security improvements. Known for his blend of technical depth and practical problem-solving, Michael thrives at the intersection of innovation and execution - bridging the gap between technology and business value. His approach emphasizes partnership, adaptability, and a shared commitment to improving the resilience of the cybersecurity ecosystem. A U.S. Marine Corps veteran and University of Texas at Austin graduate, Michael brings a mission-driven mindset to helping organizations safeguard what matters most. When not behind a screen, Michael enjoys van life in the mountains and doing crazy things on two wheels.
 
--   **Chris Young - Product Manager - OpenText**  
-Chris is a Full-Stack Developer and Cybersecurity Specialist with expertise in Application Security, DevSecOps, Data Protection, Identity, and Security Operations. Over the past 14 years at OpenText, he has held strategic sales roles spanning Engineering, Professional Services, Big Data Analytics, and Enterprise Computing. Previously, he led Application Development at Citizens Bank, launching their first online and mobile banking platforms. He began his tech career at Humana, building large-scale logistical and linear regression models foundational to machine learning. Chris is a Lean Six Sigma Black Belt and a 1997 graduate of the U.S. Military Academy at West Point.
+LinkedIn: https://www.linkedin.com/in/michael-mckinley-510235126/
 
--   **Andrew Gordon - Senior Sales Engineer - Snyk**  
-Andrew Gordon is a seasoned IT professional and application security advocate with over two decades of experience leading enterprise-scale technology transformations. Before joining Snyk as a Senior Sales Engineer, Andrew held pivotal roles across industries, including serving as Director of IT at Spectrum and leading application delivery at Reinsurance Group of America. His background spans project and product management, software development, and systems integration—particularly in CRM, ERP, and quote-to-cash (Q2C) environments. Known for building high-performing, globally distributed teams, Andrew brings a deep understanding of both business strategy and technical execution. He holds certifications including Certified Scrum Master, SAFe 4 Agilist, and ITIL Foundations.
+
+-   **Cletus (Clete) Young - Senior Cyber Security Architect - FrostBank**  
+
+\[Speaker bio coming soon — check back for details.\]
+
+LinkedIn: https://www.linkedin.com/in/cletetaylor13/
+
+
+-   **Charles Boulware - Field CTO - Fulcrum**  
+
+\[Speaker bio coming soon — check back for details.\]
+
+LinkedIn: https://www.linkedin.com/in/charlesboulware/
+
+-   **Roman Medina, Jr - SVP, CISO - Jefferson Bank**  
+
+\[Speaker bio coming soon — check back for details.\]
+
+LinkedIn: https://www.linkedin.com/in/romanmedinajr/
 
 - **Joseph Gregorio - VP Application Security - Frost Bank**
+
 Joseph Gregorio is the Vice President of Application Security at Frost Bank, bringing over 30 years of experience in Information Technology. His career spans software product development, application security, third-party risk management, governance, risk and compliance, and business continuity. Joseph’s diverse background includes leadership roles across the Department of Defense, telecommunications, financial services, and banking industries. He holds multiple professional certifications, including CISSP, CSSLP, GSEC, CGEIT, and PMP. Joseph earned a Master’s in Computer Information Systems from the University of Denver and an MBA from Colorado State University.
 
-**Additional Meeting Details**
+LinkedIn: https://www.linkedin.com/in/jmgregorio01/
+
+### **Additional Meeting Details** ###
 * Lunch Provided
 * Happy Hour & Demo Lab networking after session!!!
 
-**Happy Hour - Sponsors**
-* Opentext 
-* Synk
-* Bytewhisper
-* Wallarm
+### **Happy Hour - Sponsors** ###
+* HackerOne
+* Fulcrum
+* YesWeHack
 
-**Future Presentation Topics To Vote On**
+### **Future Presentation Topics To Vote On** ###
 * ASPM
-* Bug Bounty Programs: Successes and Failures
 * Pentest
 * Ransomware
 * DevSecOps - Security as Code
