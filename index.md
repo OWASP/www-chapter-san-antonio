@@ -1,3 +1,4 @@
+
 ---
 
 layout: col-sidebar
@@ -85,7 +86,7 @@ LinkedIn: https://www.linkedin.com/in/michael-mckinley-510235126/
 
 -   **Cletus (Clete) Young - Senior Cyber Security Architect - FrostBank**  
 
-\[Speaker bio coming soon — check back for details.\]
+Cletus (Clete) Taylor is the author of the forthcoming book _Trust at the Speed of Execution: The Role of Automation and Orchestration in Zero Trust_. He currently serves as Senior Security Architect at Frost Bank, leading the enterprise transition to Zero Trust Architecture. His past roles include Security Architect at Genesys and Sysco, CISO for Harrah’s Entertainment, and Security Director/Data Center Director at S1. A decorated 10‑year U.S. Navy and special operations veteran, Clete brings operational discipline and deep technical expertise to advancing Zero Trust through automation and orchestration.
 
 LinkedIn: https://www.linkedin.com/in/cletetaylor13/
 
