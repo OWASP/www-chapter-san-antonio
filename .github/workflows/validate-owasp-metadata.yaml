@@ -24,4 +24,4 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Validate metadata file
-        uses: owasp/nest-schema/.github/actions/validate@65a600c4cb3c18a7233a95c7482825d2533caee5
+        uses: owasp/nest-schema/.github/actions/validate@a520da159e922455ec101dabd9ce1c69aad83c7e
