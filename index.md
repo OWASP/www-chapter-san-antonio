@@ -30,7 +30,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 ## Upcoming Events ##
 ### 🎉OWASP San Antonio Quarterly Chapter Meeting (and Happy Hour after)🎉 ###
 
-### **Presentation :** AppSec Bug Bounties Programs and Discussions & Zero Trust Panel ###
+### **Presentation :** AppSec Bug Bounties Programs and Presentation on Zero Trust ###
 
 **> When:** December 12th, 2025 (Friday)
 
@@ -55,34 +55,31 @@ Whether you’re a security professional, developer, or simply curious about how
 **HackerOne** is a leading bug bounty and vulnerability coordination platform, trusted by organizations worldwide to identify and resolve security issues before they can be exploited. By connecting businesses with a global community of ethical hackers, HackerOne helps strengthen digital defenses, protect customer data, and build resilience against evolving threats.
 
 
-**“Featured Talk — Details To Be Announced” - YesWeHack**  
-
-\[Title and topic to be announced — stay tuned for details.\]
+**"The Power and Future of Crowdsourced Security" - Carlos Torres, US Founding GTM, YesWeHack** 
 
 Founded in 2015, **YesWeHack** is a global Bug Bounty and Vulnerability Management platform connecting organizations with tens of thousands of ethical hackers. By uncovering and patching vulnerabilities across websites, mobile apps, connected devices, and digital infrastructure, YesWeHack helps private, public, and governmental organizations strengthen security cost‑effectively. With in‑house triage, personalized support, and results‑based pricing, the platform is trusted worldwide and operates under strict compliance standards, including ISO certifications, GDPR‑compliant hosting, and CREST accreditation.
 
-**Bug Bounty in the Real World - Charles Boulware, Field CTO, Fulcrum**
-
-\[Title and topic to be announced — details coming soon.\]
+**"Bug Bounty in the Real World" - Charles Boulware, Field CTO, Fulcrum**
 
 **Fulcrum** is a new type of integrator dedicated to solving critical business challenges across Security, Infrastructure, Cloud, and Big Data. With expertise spanning consulting and staff augmentation, MSP/MSSP services, product sales, and intellectual property, Fulcrum works shoulder‑to‑shoulder with clients to deliver results. Two‑thirds of the team are engineers—but every member is a problem solver—driven to finish the job and provide the service organizations deserve.
 
-**Security Panel: Tackling Zero Trust**  
-Join us for a dynamic panel on Zero Trust security featuring several distinguished experts. Together, they’ll explore the principles, challenges, and real‑world applications of Zero Trust, sharing insights on how organizations can strengthen resilience in today’s evolving threat landscape.
+**"Zero Trust: Benefits and Challenges" - Cletus (Clete) Young - Senior Cyber Security Architect - FrostBank**  
 
-Panelists
-* Michael McKinley - Senior Cybersecurity Solutions Engineer - HackerOne
-* Cletus Taylor - Senior Cyber Security Architect - Frost Bank
-* Roman Medina, Jr - SVP, CISO - Jefferson Bank
-* Facilitator: Joseph Gregorio - VP Application Security - Frost Bank
+Discover how Zero Trust can transform organizational security in our presentation, Zero Trust: Benefits and Challenges. We’ll break down what Zero Trust really means, why it matters, and how to navigate the obstacles that come with implementing it effectively.
 
-### **Featured Speakers and Panelists** ###
+
+### **Featured Speakers** ###
 -   **Michael McKinley - Senior Cybersecurity Solutions Engineer - HackerOne**  
 
 Michael McKinley is a senior cybersecurity solutions engineer passionate about collaborating with customers and partners to strengthen their security programs and achieve meaningful outcomes. He works closely with organizations to understand their unique challenges, architect solutions that align with their goals, and help translate strategy into measurable security improvements. Known for his blend of technical depth and practical problem-solving, Michael thrives at the intersection of innovation and execution - bridging the gap between technology and business value. His approach emphasizes partnership, adaptability, and a shared commitment to improving the resilience of the cybersecurity ecosystem. A U.S. Marine Corps veteran and University of Texas at Austin graduate, Michael brings a mission-driven mindset to helping organizations safeguard what matters most. When not behind a screen, Michael enjoys van life in the mountains and doing crazy things on two wheels.
 
 LinkedIn: https://www.linkedin.com/in/michael-mckinley-510235126/
 
+-    **Carlos Torres - US Founding GTM - YesWeHack**
+
+Carlos Torres is an eight+ year veteran of the bug bounty industry and currently serves as the U.S. Founding GTM Lead at YesWeHack, where he is driving major growth and expand the company’s presence across North America. Prior to YesWeHack, he spent several years at Bugcrowd, remaining closely involved in the technical side of bug bounty operations while progressing through sales and leadership roles. With experience across multiple leading platforms, Carlos brings a unique blend of technical insight and program-building expertise to crowdsourced security.
+
+LinkedIn: https://www.linkedin.com/in/carlos-torres-b32b9125/
 
 -   **Cletus (Clete) Young - Senior Cyber Security Architect - FrostBank**  
 
@@ -97,11 +94,6 @@ LinkedIn: https://www.linkedin.com/in/cletetaylor13/
 
 LinkedIn: https://www.linkedin.com/in/charlesboulware/
 
--   **Roman Medina, Jr - SVP, CISO - Jefferson Bank**  
-
-\[Speaker bio coming soon — check back for details.\]
-
-LinkedIn: https://www.linkedin.com/in/romanmedinajr/
 
 - **Joseph Gregorio - VP Application Security - Frost Bank**
 
@@ -117,6 +109,7 @@ LinkedIn: https://www.linkedin.com/in/jmgregorio01/
 * HackerOne
 * Fulcrum
 * YesWeHack
+* Harness
 
 ### **Future Presentation Topics To Vote On** ###
 * ASPM
