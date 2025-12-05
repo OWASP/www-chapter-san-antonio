@@ -41,24 +41,26 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 * On-site: ([Meetup RSVP required](https://www.meetup.com/owasp-sanantonio/events/312115571/)) Scuzzi’s Italian Restaurant - 4035 N Loop 1604 W #102, San Antonio, TX 78257 
 * Virtual: Zoom Call ([Room link provided on Meetup](https://www.meetup.com/owasp-sanantonio/events/312115571/))
 
-Join us for an in‑depth discussion on Application Security (AppSec) Bug Bounty Programs. Industry experts will share real‑world insights into the biggest challenges these programs face, and how they’ve successfully overcome them through proven strategies, best practices, innovation, and teamwork.
+Join us for an in-depth discussion on Application Security (AppSec) Bug Bounty Programs. Industry experts will share real‑world insights into the biggest challenges these programs face, and how they’ve successfully overcome them through proven strategies, best practices, innovation, and teamwork. Following the bug bounty presentations, we will move into an in-depth presentation on the benefits and challenges of Zero Trust.
 
 Whether you’re a security professional, developer, or simply curious about how bug bounty programs strengthen modern AppSec, this session will provide practical knowledge and inspiration you can take back to your own work.
 
 ### **Featured Presentations:** ###
 
-**“Featured Talk — Details To Be Announced” - Michael McKinley, Senior Cybersecurity Solutions Engineer, HackerOne**  
+**"The Power and Future of Crowdsourced Security" - Michael McKinley, Senior Cybersecurity Solutions Engineer, HackerOne**  
+
+\In today's rapidly evolving threat landscape, no single security team can maintain complete visibility. Attack surfaces expand faster than internal defenses, creating gaps that traditional approaches struggle to close. Crowdsourced security offers a powerful solution by extending vulnerability discovery to the edges. Through global bug bounty programs, thousands of independent researchers collaborate to uncover weaknesses across diverse technologies. This collective intelligence accelerates discovery, delivers deeper insights, and strengthens resilience. By harnessing the expertise of a worldwide community united under one goal - security - we can achieve faster, smarter, and more robust protection for the future.
+
+
+**“Featured Talk — Details To Be Announced” - Carlos Torres, US Founding GTM, YesWeHack** 
 
 \[Title and topic to be announced — details coming soon.\]
-
-**HackerOne** is a leading bug bounty and vulnerability coordination platform, trusted by organizations worldwide to identify and resolve security issues before they can be exploited. By connecting businesses with a global community of ethical hackers, HackerOne helps strengthen digital defenses, protect customer data, and build resilience against evolving threats.
-
-
-**"The Power and Future of Crowdsourced Security" - Carlos Torres, US Founding GTM, YesWeHack** 
 
 Founded in 2015, **YesWeHack** is a global Bug Bounty and Vulnerability Management platform connecting organizations with tens of thousands of ethical hackers. By uncovering and patching vulnerabilities across websites, mobile apps, connected devices, and digital infrastructure, YesWeHack helps private, public, and governmental organizations strengthen security cost‑effectively. With in‑house triage, personalized support, and results‑based pricing, the platform is trusted worldwide and operates under strict compliance standards, including ISO certifications, GDPR‑compliant hosting, and CREST accreditation.
 
 **"Bug Bounty in the Real World" - Charles Boulware, Field CTO, Fulcrum**
+
+\[Abstract to be announced — details coming soon.\]
 
 **Fulcrum** is a new type of integrator dedicated to solving critical business challenges across Security, Infrastructure, Cloud, and Big Data. With expertise spanning consulting and staff augmentation, MSP/MSSP services, product sales, and intellectual property, Fulcrum works shoulder‑to‑shoulder with clients to deliver results. Two‑thirds of the team are engineers—but every member is a problem solver—driven to finish the job and provide the service organizations deserve.
 
