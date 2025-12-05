@@ -91,7 +91,7 @@ LinkedIn: https://www.linkedin.com/in/cletetaylor13/
 
 -   **Charles Boulware - Field CTO - Fulcrum**  
 
-\[Speaker bio coming soon — check back for details.\]
+Charles Boulware is a cybersecurity architect and consultant with over 15 years of experience designing, optimizing, and securing enterprise environments. His work spans SIEM, SOAR, NDR, observability pipelines, and incident response, with a strong focus on scalable monitoring, automation, and actionable security analytics for SOC teams. As Field CTO at Fulcrum Technology Solutions and Co-Founder of Booli.ai, he has led the design of identity-centric SIEM architectures, agentic AI-driven SOC workflows, and high-throughput security data pipelines that materially reduce investigation and response times. His background in digital forensics, incident response, and large-scale logging makes him particularly passionate about how bug bounty programs complement modern detection, response, and application security practices.
 
 LinkedIn: https://www.linkedin.com/in/charlesboulware/
 
