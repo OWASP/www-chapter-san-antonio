@@ -49,7 +49,7 @@ Whether you’re a security professional, developer, or simply curious about how
 
 **"The Power and Future of Crowdsourced Security" - Michael McKinley, Senior Cybersecurity Solutions Engineer, HackerOne**  
 
-\In today's rapidly evolving threat landscape, no single security team can maintain complete visibility. Attack surfaces expand faster than internal defenses, creating gaps that traditional approaches struggle to close. Crowdsourced security offers a powerful solution by extending vulnerability discovery to the edges. Through global bug bounty programs, thousands of independent researchers collaborate to uncover weaknesses across diverse technologies. This collective intelligence accelerates discovery, delivers deeper insights, and strengthens resilience. By harnessing the expertise of a worldwide community united under one goal - security - we can achieve faster, smarter, and more robust protection for the future.
+In today's rapidly evolving threat landscape, no single security team can maintain complete visibility. Attack surfaces expand faster than internal defenses, creating gaps that traditional approaches struggle to close. Crowdsourced security offers a powerful solution by extending vulnerability discovery to the edges. Through global bug bounty programs, thousands of independent researchers collaborate to uncover weaknesses across diverse technologies. This collective intelligence accelerates discovery, delivers deeper insights, and strengthens resilience. By harnessing the expertise of a worldwide community united under one goal - security - we can achieve faster, smarter, and more robust protection for the future.
 
 
 **“Featured Talk — Details To Be Announced” - Carlos Torres, US Founding GTM, YesWeHack** 
