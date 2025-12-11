@@ -52,9 +52,7 @@ Whether you’re a security professional, developer, or simply curious about how
 In today's rapidly evolving threat landscape, no single security team can maintain complete visibility. Attack surfaces expand faster than internal defenses, creating gaps that traditional approaches struggle to close. Crowdsourced security offers a powerful solution by extending vulnerability discovery to the edges. Through global bug bounty programs, thousands of independent researchers collaborate to uncover weaknesses across diverse technologies. This collective intelligence accelerates discovery, delivers deeper insights, and strengthens resilience. By harnessing the expertise of a worldwide community united under one goal - security - we can achieve faster, smarter, and more robust protection for the future.
 
 
-**“Featured Talk — Details To Be Announced” - Carlos Torres, US Founding GTM, YesWeHack** 
-
-\[Title and topic to be announced — details coming soon.\]
+**“Global Bug Bounty & Vulnerability Management Platform” - Carlos Torres, US Founding GTM, YesWeHack** 
 
 Founded in 2015, **YesWeHack** is a global Bug Bounty and Vulnerability Management platform connecting organizations with tens of thousands of ethical hackers. By uncovering and patching vulnerabilities across websites, mobile apps, connected devices, and digital infrastructure, YesWeHack helps private, public, and governmental organizations strengthen security cost‑effectively. With in‑house triage, personalized support, and results‑based pricing, the platform is trusted worldwide and operates under strict compliance standards, including ISO certifications, GDPR‑compliant hosting, and CREST accreditation.
 
