@@ -52,9 +52,9 @@ Whether you’re a security professional, developer, or simply curious about how
 In today's rapidly evolving threat landscape, no single security team can maintain complete visibility. Attack surfaces expand faster than internal defenses, creating gaps that traditional approaches struggle to close. Crowdsourced security offers a powerful solution by extending vulnerability discovery to the edges. Through global bug bounty programs, thousands of independent researchers collaborate to uncover weaknesses across diverse technologies. This collective intelligence accelerates discovery, delivers deeper insights, and strengthens resilience. By harnessing the expertise of a worldwide community united under one goal - security - we can achieve faster, smarter, and more robust protection for the future.
 
 
-**“Global Bug Bounty & Vulnerability Management Platform” - Carlos Torres, US Founding GTM, YesWeHack** 
+**“Trust The Crowd: Building a Sustainable Crowdsourced Security Program” - Carlos Torres, US Founding GTM, YesWeHack** 
 
-Founded in 2015, **YesWeHack** is a global Bug Bounty and Vulnerability Management platform connecting organizations with tens of thousands of ethical hackers. By uncovering and patching vulnerabilities across websites, mobile apps, connected devices, and digital infrastructure, YesWeHack helps private, public, and governmental organizations strengthen security cost‑effectively. With in‑house triage, personalized support, and results‑based pricing, the platform is trusted worldwide and operates under strict compliance standards, including ISO certifications, GDPR‑compliant hosting, and CREST accreditation.
+This session provides a practical introduction to launching and scaling Vulnerability Disclosure Programs (VDPs) and Bug Bounty initiatives. It covers the core concepts of crowdsourced security, common pitfalls to avoid, and the foundational steps needed to begin—such as defining scope, aligning internal teams, and building effective triage workflows. Attendees will also learn how to communicate with researchers, adjust scope and rewards over time, and track the key metrics that support long-term program success.
 
 **"Bug Bounty in the Real World" - Charles Boulware, Field CTO, Fulcrum**
 
@@ -119,4 +119,13 @@ LinkedIn: https://www.linkedin.com/in/jmgregorio01/
 
 Speaking at OWASP San Antonio Chapter Events
 ---
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP San Antonio Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+
+#### OWASP Q1 2026 Event: Applied AI Use Cases for AppSec – Where the Rubber Meets the Road!  
+**Date:** March 20, 2026
+
+**Description:**  
+Join us for an engaging and informative session on practical AI use cases in Application Security. This event will explore best practices and emerging tools designed to defend applications from AI-driven threats across the SDLC. We will highlight current AI attack vectors and the proactive strategies organizations should adopt to protect their data and critical assets.
+
+**Call for Sponsorships and Papers:**  
+We are now accepting presentation abstracts and sponsorship inquiries. Please send submissions to **Joseph.GGregorio@frostbank.com**.  
+Selections for sponsors and presentations will be finalized by **February 28, 2026**, so please submit early for full consideration.
