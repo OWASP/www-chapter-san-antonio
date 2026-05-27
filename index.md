@@ -20,11 +20,11 @@ Anyone with an interested and enthusiastic about application security is welcome
 Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
 ## What's going to happen?
-To be announced via our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/).
+To be announced via our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/san-antonio-owasp-chapter/).
 We usually have talks related to information and application security.
 
 ## Further Notes
-Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/owasp-sanantonio/) for timely updates on our OWASP Chapter San Antonio Meetup.
+Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/san-antonio-owasp-chapter/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
 ### 🎉OWASP San Antonio Supply Chain Security Summit (and Happy Hour after)🎉 ###
@@ -115,10 +115,10 @@ Discussion themes:
 
 ## Additional Meeting Details
 
-**Lunch:** $20 paid in person or via our Square account.
+**Lunch:** Optional ($20 paid in person or via our Square account). Attendees are welcome to attend without purchasing lunch.
 
 **Square payment link:**  
-https://square.link/u/kiJwhMJj
+https://square.link/u/W21TqLWD
 
 **Location:**  
 Scuzzi's Italian Restaurant  
@@ -135,17 +135,51 @@ To Be Announced
 ## Virtual Meeting Details
 
 **Join Zoom Meeting**  
-https://us06web.zoom.us/j/88075094983?pwd=HgD51ImqU3vbgKfJVpUhAc5mvqL5Ow.1
+https://us06web.zoom.us/j/84639739238?pwd=yiq0jJXgneT1pec1yV837nzNk3Eczu.1
 
-**Meeting ID:** 880 7509 4983
+**Meeting ID:** 846 3973 9238
 
-**Passcode:** 840262
+**Passcode:** 934605
 
 ---
 
 We encourage everyone to attend in person. We will have door prizes and excellent food for all to enjoy, along with a great opportunity to connect with fellow security professionals.
 
 Please feel free to pass this information on to your peers and team members. 😊
+
+---
+
+## Featured Speakers
+
+### J Fridley – Solutions Engineer, Oligo
+
+![J Fridley](/assets/speakers/j-fridley.jpg)
+
+J Fridley is a Solutions Engineer at Oligo, where he works with security and engineering teams to better understand and prioritize real-world application risk. His work focuses heavily on issues that don’t fit neatly into traditional vulnerability management — including third-party and open-source risk, security concerns introduced by embedded and agentic AI, and why defending against attack techniques is often more effective than focusing solely on individual CVEs.
+
+Prior to joining Oligo, J supported application security programs and developer security tooling initiatives across a variety of environments. He is particularly interested in the practical realities of modern software security: how teams actually build applications, how security findings are communicated to developers, and why risk prioritization in cloud-native environments remains such a difficult challenge.
+
+---
+
+### Tim Gowan – Success Architect, Endor Labs
+
+![Tim Gowan](/assets/speakers/tim-gowan.jpg)
+
+Tim Gowan spent the early part of his career believing security teams were simply professional blockers to engineering velocity. A decade, a U.S. patent, and millions of vulnerability alerts later, he has thoroughly unlearned that assumption.
+
+Today, Tim serves as a Success Architect at Endor Labs, where he focuses on post-sales architecture and helping organizations operationalize secure development practices at scale. With more than ten years of experience designing carrier-grade infrastructure at Verizon and developer security platforms at Snyk, he specializes in transforming chaotic enterprise environments into secure, developer-friendly engineering workflows.
+
+Tim holds an M.S. in Computer Science with an NSA CyberOps designation and is passionate about designing systems that help organizations minimize risk without sacrificing productivity.
+
+---
+
+### Dima Gorbonos – Global Director of Sales Engineering, Mend.io
+
+![Dima Gorbonos](/assets/speakers/dima-gorbonos.png)
+
+Dima Gorbonos is a cybersecurity and application security leader with extensive experience helping enterprises secure modern software development at scale. As Global Director of Sales Engineering at Mend.io, he leads go-to-market initiatives focused on software supply chain security, AI security, open-source risk management, and DevSecOps.
+
+Dima works closely with organizations to strengthen application security programs while enabling development teams to move quickly and securely in increasingly complex environments.
 
 ---
 
