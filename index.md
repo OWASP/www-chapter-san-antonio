@@ -31,10 +31,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 
 ### **Presentations and Security Panel: Supply Chain Security and AI-Enabled Threats** ###
 
-**Call for Sponsorships and Papers:**  
-We are now accepting presentation abstracts and sponsorship inquiries. Please send submissions to **Joseph.Gregorio@frostbank.com**.
-
-Selections for sponsors and presentations will be finalized soon, so please submit early for full consideration.
+**Featured presentations and speakers have been finalized. Sponsorship inquiries are still welcome and may be directed to Joseph.Gregorio@frostbank.com.**
 
 **> When:** Friday, Jun 12 · 11:00 AM to 3:00 PM CDT
 
@@ -60,42 +57,67 @@ Whether you're responsible for application security, third-party risk, detection
 
 ## Featured Presentations
 
-### Mapping the Kill Chain: How Supply Chain Attacks Actually Unfold
-**Speaker:** TBD
+### The Supply Chain Threat We're Not Ready For: Where Are the Real Gaps?
+**Speaker:** Dima Gorbonos, Global Director of Sales Engineering, Mend.io
 
-This presentation breaks down real-world supply chain attack sequences from initial compromise to lateral movement and data exfiltration. We will analyze attacker methodologies across vendor ecosystems, software dependencies, and hardware channels, highlighting where traditional defenses fail.
+Supply chain security has become a boardroom priority, yet many organizations continue to focus on the wrong risks. While visibility into software dependencies has improved, significant gaps remain across open-source ecosystems, transitive dependencies, third-party integrations, and emerging AI-driven development workflows.
+
+This session explores where organizations are still vulnerable despite increased investment in supply chain security. Attendees will gain practical insights into the challenges of identifying, prioritizing, and mitigating risk across increasingly complex software delivery environments.
 
 Topics include:
-* Common supply chain attack paths and kill chain stages
-* Threat actor tactics, techniques, and procedures (TTPs)
-* Detection gaps and incident response challenges
-* Lessons learned from recent high-impact breaches
+* The most overlooked supply chain security risks facing organizations today
+* Hidden exposure within open-source and transitive dependencies
+* Challenges introduced by AI-assisted software development
+* Strategies for prioritizing and reducing software supply chain risk
+* Practical recommendations for building a more resilient security program
 
 ---
 
-### AI-Enabled Attacks: New Vectors, Amplified Scale
-**Speaker:** TBD
+### How to Engineer Supply Chain Controls
+**Speaker:** Tim Gowan, Success Architect, Endor Labs
 
-Adversaries are increasingly weaponizing AI to scale and automate their operations. This session explores how large language models and AI tooling are used to forge identities, exploit dependency ecosystems, and accelerate vulnerability discovery.
+Modern software supply chains generate more findings than security and engineering teams can realistically address. As organizations scale, dependency sprawl, version fragmentation, and decentralized package management create hidden operational costs that make vulnerability remediation increasingly difficult.
 
-Topics include:
-* How AI is used in modern attack campaigns
-* Real-world examples of AI-assisted threats
-* Risks such as model poisoning and data manipulation
-* Defensive considerations for AI-driven attack surfaces
+This session explores practical approaches for engineering supply chain controls that improve both security outcomes and developer productivity. Attendees will learn how concepts such as version cardinality, controlled package ingestion, dependency standardization, and large-scale change management can help organizations reduce risk while accelerating remediation efforts.
+
+Attendees will gain insights into:
+* Understanding version cardinality and its impact on remediation cost and engineering velocity
+* Reducing dependency sprawl through standardization and version-flattening strategies
+* Implementing controlled package ingestion and software supply chain governance
+* Building scalable controls that align security objectives with engineering workflows
+* Leveraging supply chain visibility and dependency intelligence to prioritize risk more effectively
 
 ---
 
-### Threat-Informed Defense: Reducing Exposure Across the Supplier Ecosystem
-**Speaker:** TBD
+### Threat-Informed Defense: Prioritizing What Actually Matters
+**Speaker:** J Fridley, Solutions Engineer, Oligo
 
-Defending against supply chain threats requires more than visibility, it requires operationalizing threat intelligence. This talk focuses on practical strategies to monitor, verify, and contain risk across third-party relationships.
+Security teams are inundated with alerts, vulnerabilities, and findings, yet many organizations still struggle to determine which risks truly matter. As software ecosystems become increasingly interconnected through open-source components, third-party services, cloud-native architectures, and AI-powered applications, defenders must move beyond vulnerability counts and focus on the techniques and attack paths adversaries are most likely to exploit.
+
+This session explores how a threat-informed defense strategy can help organizations better understand real-world risk, prioritize remediation efforts, and focus security investments where they have the greatest impact. Attendees will learn practical approaches for aligning vulnerability management, application security, and threat intelligence programs to defend against modern attack techniques.
 
 Topics include:
-* SBOM implementation and enforcement
-* Continuous supplier monitoring strategies
-* Trust verification and zero trust principles for vendors
-* Response strategies when a supplier is compromised
+* Applying threat intelligence to prioritize vulnerabilities and security findings
+* Identifying exploitable attack paths across applications and software supply chains
+* Moving beyond CVE-centric security programs toward attacker-focused defenses
+* Understanding risks introduced by third-party software, open-source dependencies, and AI-enabled applications
+* Building a threat-informed security strategy that improves resilience and operational efficiency
+
+---
+
+### The AI Attack Storm: Security at Machine Speed
+**Speaker:** Eric Pedersen, Solutions Engineer, Black Duck
+
+Artificial intelligence has fundamentally changed the economics of cyber attacks. While AI has not created entirely new attack techniques, it has dramatically reduced the cost, time, and expertise required to discover vulnerabilities, develop exploits, and scale attacks across software ecosystems. As attackers increasingly operate at machine speed, organizations must rethink how they approach application security, vulnerability management, and supply chain defense.
+
+This session examines how AI is transforming both offensive and defensive security practices, the challenges facing traditional AppSec programs, and what organizations can do today to prepare for an era of AI-powered vulnerability discovery and exploitation. Attendees will learn practical strategies for building security programs capable of responding at the speed of modern threats.
+
+What you'll learn:
+* How AI is accelerating vulnerability discovery, exploitation, and attack automation
+* Why traditional vulnerability management and patching processes struggle to keep pace
+* The evolving role of automated application security testing, software composition analysis, and supply chain security
+* Key considerations for securing AI-assisted and agentic software development workflows
+* Practical steps for building an AppSec program that can operate at machine speed
 
 ---
 
@@ -180,6 +202,16 @@ Tim holds an M.S. in Computer Science with an NSA CyberOps designation and is pa
 Dima Gorbonos is a cybersecurity and application security leader with extensive experience helping enterprises secure modern software development at scale. As Global Director of Sales Engineering at Mend.io, he leads go-to-market initiatives focused on software supply chain security, AI security, open-source risk management, and DevSecOps.
 
 Dima works closely with organizations to strengthen application security programs while enabling development teams to move quickly and securely in increasingly complex environments.
+
+---
+
+### Eric Pedersen – Solutions Engineer, Black Duck
+
+![Eric Pedersen](/assets/speakers/eric-pedersen.jpg)
+
+Eric Pedersen is a Solutions Engineer at Black Duck, where he works with organizations to strengthen application security programs and manage risk across modern software development environments. His areas of focus include application security testing, software supply chain security, open-source governance, and helping teams integrate security practices into fast-paced development workflows.
+
+Eric works closely with security and engineering teams to address emerging challenges introduced by AI-assisted development, increasingly complex software ecosystems, and the growing need for automated security controls throughout the SDLC. He is particularly interested in helping organizations modernize their application security programs to keep pace with evolving threats while enabling developers to build and deliver software securely at scale.
 
 ---
 
