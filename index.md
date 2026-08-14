@@ -27,13 +27,13 @@ We usually have talks related to information and application security.
 Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/san-antonio-owasp-chapter/) for timely updates on our OWASP Chapter San Antonio Meetup.
 
 ## Upcoming Events ##
-### 🎉OWASP San Antonio Supply Chain Security Summit (and Happy Hour after)🎉 ###
+### 🎉OWASP San Antonio: Mythos/GlassWing Defense Strategies; AI Search🎉 ###
 
-### **Presentations and Security Panel: Supply Chain Security and AI-Enabled Threats** ###
+### **Presentations and Security Panel: AI Search, Mythos, Glasswing, and the Future of AppSec** ###
 
-**Featured presentations and speakers have been finalized. Sponsorship inquiries are still welcome and may be directed to Joseph.Gregorio@frostbank.com.**
+**Featured presentations and speakers are being finalized. Speakers from Cloudflare and Veracode are confirmed, with presentation details to be announced.**
 
-**> When:** Friday, Jun 12 · 11:00 AM to 3:00 PM CDT
+**> When:** Friday, September 18 · 11:00 AM to 3:00 PM CDT
 
 **> Presentation Session:** 11:00am - 3:00pm
 
@@ -47,89 +47,57 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 
 ## Event Overview
 
-Join us for a deep dive into one of the most critical and rapidly evolving fronts in cybersecurity: supply chain security. From compromised vendors and poisoned dependencies to AI-enabled attack campaigns, today’s threat landscape is no longer isolated — it is interconnected, automated, and operating at unprecedented scale.
+Join us for a deep dive into the rapidly evolving intersection of artificial intelligence and application security. As AI accelerates vulnerability discovery, software development, and offensive security operations, traditional security models are being challenged to keep pace.
 
-This summit brings together real-world threat intelligence, incident-driven insights, and practitioner-led discussions to examine how modern supply chain attacks actually unfold and what it takes to defend against them. We will explore how adversaries are leveraging AI to accelerate reconnaissance, impersonate trusted entities, and exploit gaps across software, hardware, and third-party ecosystems.
+This meeting will bring together security practitioners and industry experts to explore emerging approaches to defending applications and software supply chains in an era of AI-powered attacks. We will examine how technologies and concepts such as Mythos, Glasswing, AI-assisted security operations, and runtime protection are changing the way organizations identify, prioritize, and respond to security risks.
 
-Whether you're responsible for application security, third-party risk, detection engineering, or incident response, this session will provide actionable strategies to better understand, detect, and reduce supply chain exposure in an era of continuous, intelligent attack.
+From runtime-driven defense and intelligent vulnerability prioritization to emerging approaches for securing modern application environments, this session will focus on practical strategies organizations can use to adapt their AppSec programs to operate at the speed of AI.
 
 ---
 
 ## Featured Presentations
 
-### The Supply Chain Threat We're Not Ready For: Where Are the Real Gaps?
-**Speaker:** Dima Gorbonos, Global Director of Sales Engineering, Mend.io
+### Beyond Detection: Operating Security at Runtime in the AI Era
+**Speaker:** Teddi Poehls, Head of Sales Engineering, Impart Security
 
-Supply chain security has become a boardroom priority, yet many organizations continue to focus on the wrong risks. While visibility into software dependencies has improved, significant gaps remain across open-source ecosystems, transitive dependencies, third-party integrations, and emerging AI-driven development workflows.
+Artificial intelligence is reshaping cybersecurity faster than most organizations can adapt. AI agents, machine identities, and autonomous workflows are creating new attack paths while dramatically accelerating the pace of vulnerability discovery and exploitation. For many security teams, the result is more alerts, more patching, and more operational complexity. This session argues that the answer isn't simply more AI, it is a different operating model.
 
-This session explores where organizations are still vulnerable despite increased investment in supply chain security. Attendees will gain practical insights into the challenges of identifying, prioritizing, and mitigating risk across increasingly complex software delivery environments.
+We'll explore how emerging approaches such as Glasswing, Mythos, and AI-assisted security operations are shifting the industry from reactive detection toward intelligent, runtime-driven protection.
 
-Topics include:
-* The most overlooked supply chain security risks facing organizations today
-* Hidden exposure within open-source and transitive dependencies
-* Challenges introduced by AI-assisted software development
-* Strategies for prioritizing and reducing software supply chain risk
-* Practical recommendations for building a more resilient security program
-
----
-
-### How to Engineer Supply Chain Controls
-**Speaker:** Tim Gowan, Success Architect, Endor Labs
-
-Modern software supply chains generate more findings than security and engineering teams can realistically address. As organizations scale, dependency sprawl, version fragmentation, and decentralized package management create hidden operational costs that make vulnerability remediation increasingly difficult.
-
-This session explores practical approaches for engineering supply chain controls that improve both security outcomes and developer productivity. Attendees will learn how concepts such as version cardinality, controlled package ingestion, dependency standardization, and large-scale change management can help organizations reduce risk while accelerating remediation efforts.
+Building on the idea that runtime is becoming the modern security control plane, this talk explores how runtime context changes the way organizations approach vulnerability management, prioritization, and incident response. We'll discuss why every CVE doesn't deserve an emergency patch, how virtual Layer 7 protections can dramatically reduce operational pressure, and how runtime intelligence enables security teams to make calmer, more informed decisions.
 
 Attendees will gain insights into:
-* Understanding version cardinality and its impact on remediation cost and engineering velocity
-* Reducing dependency sprawl through standardization and version-flattening strategies
-* Implementing controlled package ingestion and software supply chain governance
-* Building scalable controls that align security objectives with engineering workflows
-* Leveraging supply chain visibility and dependency intelligence to prioritize risk more effectively
+* How AI is changing the application security threat landscape
+* The role of runtime context in vulnerability prioritization and response
+* How virtual Layer 7 protections can reduce patching and remediation pressure
+* Moving from reactive detection toward intelligent runtime-driven defense
+* Practical considerations for adapting security operations to AI-powered threats
 
 ---
 
-### Threat-Informed Defense: Prioritizing What Actually Matters
-**Speaker:** J Fridley, Solutions Engineer, Oligo
+### Cloudflare Presentation
+**Speaker:** Confirmed, details pending
 
-Security teams are inundated with alerts, vulnerabilities, and findings, yet many organizations still struggle to determine which risks truly matter. As software ecosystems become increasingly interconnected through open-source components, third-party services, cloud-native architectures, and AI-powered applications, defenders must move beyond vulnerability counts and focus on the techniques and attack paths adversaries are most likely to exploit.
-
-This session explores how a threat-informed defense strategy can help organizations better understand real-world risk, prioritize remediation efforts, and focus security investments where they have the greatest impact. Attendees will learn practical approaches for aligning vulnerability management, application security, and threat intelligence programs to defend against modern attack techniques.
-
-Topics include:
-* Applying threat intelligence to prioritize vulnerabilities and security findings
-* Identifying exploitable attack paths across applications and software supply chains
-* Moving beyond CVE-centric security programs toward attacker-focused defenses
-* Understanding risks introduced by third-party software, open-source dependencies, and AI-enabled applications
-* Building a threat-informed security strategy that improves resilience and operational efficiency
+Additional details about the presentation and speaker will be announced soon.
 
 ---
 
-### The AI Attack Storm: Security at Machine Speed
-**Speaker:** Eric Pedersen, Solutions Engineer, Black Duck
+### Veracode Presentation
+**Speaker:** Confirmed, details pending
 
-Artificial intelligence has fundamentally changed the economics of cyber attacks. While AI has not created entirely new attack techniques, it has dramatically reduced the cost, time, and expertise required to discover vulnerabilities, develop exploits, and scale attacks across software ecosystems. As attackers increasingly operate at machine speed, organizations must rethink how they approach application security, vulnerability management, and supply chain defense.
-
-This session examines how AI is transforming both offensive and defensive security practices, the challenges facing traditional AppSec programs, and what organizations can do today to prepare for an era of AI-powered vulnerability discovery and exploitation. Attendees will learn practical strategies for building security programs capable of responding at the speed of modern threats.
-
-What you'll learn:
-* How AI is accelerating vulnerability discovery, exploitation, and attack automation
-* Why traditional vulnerability management and patching processes struggle to keep pace
-* The evolving role of automated application security testing, software composition analysis, and supply chain security
-* Key considerations for securing AI-assisted and agentic software development workflows
-* Practical steps for building an AppSec program that can operate at machine speed
+Additional details about the presentation and speaker will be announced soon.
 
 ---
 
-### Security Panel Discussion: The Supply Chain Threat We’re Not Ready For
+### Security Panel Discussion: AI Search, Mythos, Glasswing, and the Future of AppSec
 
-This panel brings together practitioners to discuss the most under-addressed risks in today’s supply chain landscape. From open source dependencies to AI model supply chains, panelists will explore where organizations remain vulnerable and what needs to change.
+Our security panel will bring together practitioners and industry experts to discuss how artificial intelligence is changing application security, vulnerability discovery, and defensive operations.
 
-Discussion themes:
-* Gaps in current supply chain security practices
-* Accountability between vendors and customers
-* Regulatory and governance challenges
-* Emerging risks across AI and critical infrastructure dependencies
+The panel will explore emerging technologies and approaches including AI-assisted vulnerability discovery, runtime defense, software security automation, and the challenges organizations face as attackers and defenders increasingly operate at machine speed.
+
+Discussion topics will be announced as the panel is finalized.
+
+**Call for Panel Topics:** Send your suggestions to Brent.Daugherty@owasp.org.
 
 **Facilitator:** Joseph Gregorio, President OWASP San Antonio, VP Application Security Frost Bank
 
@@ -140,7 +108,7 @@ Discussion themes:
 **Lunch:** Optional ($20 paid in person or via our Square account). Attendees are welcome to attend without purchasing lunch.
 
 **Square payment link:**  
-https://square.link/u/W21TqLWD
+https://square.link/u/uTCUQggL
 
 **Location:**  
 Scuzzi's Italian Restaurant  
@@ -150,18 +118,20 @@ San Antonio, TX 78257
 ### HAPPY HOUR & NETWORKING after session!!!
 
 **Happy Hour Sponsors:**  
-To Be Announced
+* Impart Security
+* Cloudflare
+* Veracode
 
 ---
 
 ## Virtual Meeting Details
 
 **Join Zoom Meeting**  
-https://us06web.zoom.us/j/84639739238?pwd=yiq0jJXgneT1pec1yV837nzNk3Eczu.1
+https://us06web.zoom.us/j/87207794839?pwd=UFkak2WztdvOzfTMaIhZtrTwyr85JL.1
 
-**Meeting ID:** 846 3973 9238
+**Meeting ID:** 872 0779 4839
 
-**Passcode:** 934605
+**Passcode:** 313910
 
 ---
 
@@ -173,45 +143,21 @@ Please feel free to pass this information on to your peers and team members. �
 
 ## Featured Speakers
 
-### J Fridley – Solutions Engineer, Oligo
+### Teddi Poehls – Head of Sales Engineering, Impart Security
 
-![J Fridley](/assets/speakers/j-fridley.jpg)
-
-J Fridley is a Solutions Engineer at Oligo, where he works with security and engineering teams to better understand and prioritize real-world application risk. His work focuses heavily on issues that don’t fit neatly into traditional vulnerability management — including third-party and open-source risk, security concerns introduced by embedded and agentic AI, and why defending against attack techniques is often more effective than focusing solely on individual CVEs.
-
-Prior to joining Oligo, J supported application security programs and developer security tooling initiatives across a variety of environments. He is particularly interested in the practical realities of modern software security: how teams actually build applications, how security findings are communicated to developers, and why risk prioritization in cloud-native environments remains such a difficult challenge.
+Teddi Poehls is the Head of Sales Engineering at Impart Security and has spent more than a decade helping organizations solve complex application, API, and Layer 7 security challenges. Her background includes security operations in large enterprise environments and extensive experience working with security leaders across industries as they navigate major technology shifts including cloud, APIs, and now artificial intelligence. Teddi is particularly interested in how AI is reshaping the security operating model and how runtime protection can provide visibility, context, and control across modern application environments.
 
 ---
 
-### Tim Gowan – Success Architect, Endor Labs
+### Cloudflare – Speaker Confirmed, Details Pending
 
-![Tim Gowan](/assets/speakers/tim-gowan.jpg)
-
-Tim Gowan spent the early part of his career believing security teams were simply professional blockers to engineering velocity. A decade, a U.S. patent, and millions of vulnerability alerts later, he has thoroughly unlearned that assumption.
-
-Today, Tim serves as a Success Architect at Endor Labs, where he focuses on post-sales architecture and helping organizations operationalize secure development practices at scale. With more than ten years of experience designing carrier-grade infrastructure at Verizon and developer security platforms at Snyk, he specializes in transforming chaotic enterprise environments into secure, developer-friendly engineering workflows.
-
-Tim holds an M.S. in Computer Science with an NSA CyberOps designation and is passionate about designing systems that help organizations minimize risk without sacrificing productivity.
+Additional speaker information will be added once the presentation and speaker details are finalized.
 
 ---
 
-### Dima Gorbonos – Global Director of Sales Engineering, Mend.io
+### Veracode – Speaker Confirmed, Details Pending
 
-![Dima Gorbonos](/assets/speakers/dima-gorbonos.png)
-
-Dima Gorbonos is a cybersecurity and application security leader with extensive experience helping enterprises secure modern software development at scale. As Global Director of Sales Engineering at Mend.io, he leads go-to-market initiatives focused on software supply chain security, AI security, open-source risk management, and DevSecOps.
-
-Dima works closely with organizations to strengthen application security programs while enabling development teams to move quickly and securely in increasingly complex environments.
-
----
-
-### Eric Pedersen – Solutions Engineer, Black Duck
-
-![Eric Pedersen](/assets/speakers/eric-pedersen.jpg)
-
-Eric Pedersen is a Solutions Engineer at Black Duck, where he works with organizations to strengthen application security programs and manage risk across modern software development environments. His areas of focus include application security testing, software supply chain security, open-source governance, and helping teams integrate security practices into fast-paced development workflows.
-
-Eric works closely with security and engineering teams to address emerging challenges introduced by AI-assisted development, increasingly complex software ecosystems, and the growing need for automated security controls throughout the SDLC. He is particularly interested in helping organizations modernize their application security programs to keep pace with evolving threats while enabling developers to build and deliver software securely at scale.
+Additional speaker information will be added once the presentation and speaker details are finalized.
 
 ---
 
