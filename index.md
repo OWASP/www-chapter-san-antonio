@@ -31,7 +31,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 
 ### **Presentations and Security Panel: AI Search, Mythos, Glasswing, and the Future of AppSec** ###
 
-**Featured presentations and speakers are being finalized. Speakers from Cloudflare and Veracode are confirmed, with presentation details to be announced.**
+**Featured presentations and speakers are being finalized. Speakers from Cloudflare and Veracode are confirmed. The Cloudflare presentation details are now available, with Veracode presentation details to be announced.**
 
 **> When:** Friday, September 18 · 11:00 AM to 3:00 PM CDT
 
@@ -75,10 +75,19 @@ Attendees will gain insights into:
 
 ---
 
-### Cloudflare Presentation
-**Speaker:** Confirmed, details pending
+### Designing an AppSec Architecture That Limits the Blast Radius of Attacks
+**Speaker:** John Gall, Solutions Engineer, Cloudflare
 
-Additional details about the presentation and speaker will be announced soon.
+Modern application security requires more than preventing attacks at the perimeter. As applications become increasingly distributed across cloud, APIs, and edge environments, organizations need security architectures designed to contain attacks and limit their impact when preventative controls are bypassed.
+
+In this session, John Gall will explore how defense-in-depth approaches can help organizations reduce the blast radius of application attacks. The discussion will cover WAF deployment, API security, distributed threat analysis, and the use of actionable threat intelligence to identify and mitigate application vulnerabilities across modern edge environments.
+
+Attendees will gain insights into:
+* Designing defense-in-depth security architectures for modern applications
+* Using WAF and API security controls to reduce application attack exposure
+* Applying threat intelligence to identify and mitigate emerging application threats
+* Limiting the blast radius when vulnerabilities or attacks bypass preventative controls
+* Protecting critical assets across distributed cloud and edge environments
 
 ---
 
@@ -149,15 +158,17 @@ Teddi Poehls is the Head of Sales Engineering at Impart Security and has spent m
 
 ---
 
-### Cloudflare – Speaker Confirmed, Details Pending
+### John Gall – Solutions Engineer, Cloudflare
 
-Additional speaker information will be added once the presentation and speaker details are finalized.
+John Gall serves as a Solutions Engineer at Cloudflare, specializing in WAF deployment, API security, and distributed threat analysis. In his role, he partners with technical leaders to architect defense-in-depth security solutions across modern edge networks.
+
+His work focuses on applying actionable threat intelligence to mitigate application vulnerabilities and protect critical assets. As an advocate for open security standards, John regularly speaks on application security, edge computing, and real-world threat landscape trends.
 
 ---
 
-### Veracode – Speaker Confirmed, Details Pending
+### Veracode – Speaker and Presentation Details Coming Soon
 
-Additional speaker information will be added once the presentation and speaker details are finalized.
+More details to come soon.
 
 ---
 
