@@ -31,7 +31,7 @@ Please join our [OWASP San Antonio Chapter Meetup Group](https://www.meetup.com/
 
 ### **Presentations and Security Panel: AI Search, Mythos, Glasswing, and the Future of AppSec** ###
 
-**Featured presentations and speakers are being finalized. Speakers from Cloudflare and Veracode are confirmed. The Cloudflare presentation details are now available, with Veracode presentation details to be announced.**
+**Featured presentations and speakers are being finalized. Speakers from Cloudflare and Veracode are confirmed, with presentation details now available.**
 
 **> When:** Friday, September 18 · 11:00 AM to 3:00 PM CDT
 
@@ -91,10 +91,19 @@ Attendees will gain insights into:
 
 ---
 
-### Veracode Presentation
-**Speaker:** Confirmed, details pending
+### Designing an AppSec Architecture That Limits the Blast Radius of Attacks
+**Speaker:** Chris Wilburn, Senior Director of Strategic Growth & Partnerships, Veracode
 
-Additional details about the presentation and speaker will be announced soon.
+As artificial intelligence accelerates software development and enables organizations to create applications at unprecedented speed, security teams face a growing challenge: how to maintain visibility, governance, and acceptable levels of risk without slowing innovation.
+
+This session explores how organizations can design application security architectures that limit the potential blast radius of attacks while enabling secure, AI-driven software development. The discussion will examine how security teams can build an AppSec strategy that provides the visibility, governance, and risk management needed to support modern development environments and safely move AI-generated software from experimentation into production.
+
+Attendees will gain insights into:
+* Designing AppSec architectures that limit the impact of successful attacks
+* Balancing AI-driven development speed with security visibility and governance
+* Establishing acceptable levels of risk for AI-generated and AI-assisted software
+* Using security as an enabler of innovation rather than a barrier to development
+* Moving AI-generated software from experimentation toward secure production deployment
 
 ---
 
@@ -166,9 +175,13 @@ His work focuses on applying actionable threat intelligence to mitigate applicat
 
 ---
 
-### Veracode – Speaker and Presentation Details Coming Soon
+### Chris Wilburn – Senior Director of Strategic Growth & Partnerships, Veracode
 
-More details to come soon.
+Chris Wilburn is Senior Director of Strategic Growth & Partnerships at Veracode and brings more than 20 years of experience across cybersecurity, enterprise technology, and strategic partnerships. His career includes leadership roles with Symantec, NortonLifeLock, RSA Security, NetIQ, and other security technology companies, where he has helped bring emerging security capabilities to market and scale them across enterprise environments.
+
+At Veracode, Chris focuses on strategic growth and partnerships as artificial intelligence fundamentally changes how software is developed and secured. He is particularly interested in the growing gap between the speed at which AI enables organizations to create software and their ability to understand and manage the security risk being introduced along the way.
+
+His focus is on how security can become an enabler of AI-driven innovation—helping organizations move faster while establishing the visibility, governance, and acceptable level of risk required to move AI-generated software from experimentation into production.
 
 ---
 
